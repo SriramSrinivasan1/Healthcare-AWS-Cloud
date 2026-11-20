@@ -50,7 +50,7 @@ flowchart LR
  
 ## 1️⃣ Generating the Data — Synthea
  
-**[Synthea](https://synthetichealth.github.io/synthea/)** is an open-source tool that simulates realistic patients from birth onward — their visits, diagnoses, medications and lab results — without using any real person's data. It outputs one **FHIR R4 file per patient**.
+**[Synthea](https://synthetichealth.github.io/synthea/)** is an open-source tool that simulates realistic patients from birth onward: their visits, diagnoses, medications and lab results, without using any real person's data. It outputs one **FHIR R4 file per patient**.
  
 I generated **112 synthetic patients**. Each file is a FHIR "bundle": a single JSON document containing hundreds of nested records, each with a type such as `Patient`, `Condition`, `MedicationRequest` or `Observation`.
  
