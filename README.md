@@ -140,11 +140,7 @@ The query results feed an interactive **HL7 FHIR Population Health Analytics Das
 | **Diabetic Outreach: Individual BMI & HbA1c Control** | Query 5 | Each diabetic patient's average BMI and HbA1c, color-coded so high values stand out |
  
 **Filters** for condition, gender and clinical status let users narrow every panel to the group they care about.
- 
-![HL7 FHIR Population Health Analytics Dashboard](dashboard_preview/Tableau%20Dashboard.png)
- 
-🎥 **[Watch the Video Walkthrough](VIDEO_LINK_HERE)** for a tour of the full pipeline and dashboard.
- 
+
 ---
  
 ## ⚖️ Why This Design
