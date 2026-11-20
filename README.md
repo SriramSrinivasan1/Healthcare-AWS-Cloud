@@ -20,13 +20,15 @@
  
 ## 🎯 The Problem
  
-Hospitals and health systems exchange patient records using **FHIR**, the industry standard for health data. Each patient's record arrives as one large, deeply nested file, which works well for a single doctor's visit but is slow and impractical for questions about **thousands of patients at once**.
+Hospitals and health systems exchange patient records using **FHIR**, the industry standard for health data. 
+Each patient's record arrives as one large, deeply nested file, which works well for a single doctor's visit but is slow and impractical for questions about **thousands of patients at once**.
  
 That makes it hard for clinical quality teams to:
 - Track how common chronic diseases are across the patient population
 - Check whether diagnosed patients received the expected medications
 - Find high-risk patients who are overdue for lab tests
-**The goal:** build a low-cost, low-maintenance cloud pipeline that flattens FHIR records into simple, connected tables, so anyone can answer these questions with SQL or a dashboard — and pay nothing for computing power when no one is running a query.
+
+**The goal:** build a low-cost, low-maintenance cloud pipeline that flattens FHIR records into simple, connected tables, so anyone can answer these questions with SQL or a dashboard, and pay nothing for computing power when no one is running a query.
  
 ---
  
