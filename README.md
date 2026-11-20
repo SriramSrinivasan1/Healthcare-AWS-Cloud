@@ -73,7 +73,7 @@ The warehouse uses a **star schema**: one central table describing each patient,
 | **Screening coverage** | How many patients have key heart and diabetes tests on record? | BMI for 107 patients (average 25.8), cholesterol panels for 64, HbA1c for 39 (average 5.15%) |
 | **High-risk diabetes outreach** | Which patients need follow-up? | Flags diabetic patients with HbA1c above 6.5% (e.g. 7.30%, 6.84%) and those missing a recent test |
  
-All SQL views and queries are in [`/sql`](sql/).
+All SQL views, queries, and results are in [`/sql`](sql/).
  
 ---
  
