@@ -10,12 +10,10 @@
  
 > An end-to-end, serverless healthcare analytics pipeline that turns raw patient records in **HL7 FHIR R4** format into a clean, query-ready data warehouse on AWS — and uses it to answer the questions clinical quality teams ask every day: *Who has which chronic conditions? Are they on the right medications? Who is overdue for screening?*
 >
-> **Personal Project · Built with synthetic patient data from Synthea — no real patient information involved**
+> **Personal Project · Built with synthetic patient data from Synthea; no real patient information involved**
  
 🎥 **[Watch the 5-Minute Demo](#)** · 📊 **[Preview the Live Tableau Dashboard](#)**
- 
-![Dashboard preview](images/dashboard_preview.png)
- 
+  
 ---
  
 ## 🎯 The Problem
