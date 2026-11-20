@@ -30,7 +30,8 @@ That format works well when a doctor opens one patient's chart. It's slow and im
 - How common is each chronic disease, and in which groups?
 - What medications are patients with hypertension or diabetes receiving?
 - Which diabetic patients have poorly controlled blood sugar, or no test on record?
-**The goal:** build a low-cost cloud pipeline that turns nested FHIR files into simple, connected tables, so these questions can be answered with SQL and a dashboard — with no servers to manage and no computing cost when no one is running a query.
+
+**The goal:** Build a low-cost cloud pipeline that turns nested FHIR files into simple, connected tables, so these questions can be answered with SQL and a dashboard, with no servers to manage and no computing cost when no one is running a query.
  
 ---
  
