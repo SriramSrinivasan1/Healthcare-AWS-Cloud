@@ -114,7 +114,7 @@ fact_medications ──────── dim_patients ──────── 
  
 Each query has a matching result file with the same number, exported from Athena as CSV.
  
-| # | Analysis | How It Works | Finding | Files |
+| # | Analysis | How It Works | Key Finding | Files |
 |---|---|---|---|---|
 | 1 | **Disease prevalence by gender** | Counts unique patients per condition and gender | Gingivitis was most common (52 female, 35 male); hypertension affected 10 women and 6 men | [Query](sql/queries/01_disease_prevalence_by_gender.sql) · [Result](sql/results/01_disease_prevalence_by_gender.csv) |
 | 2 | **Active vs. resolved conditions** | Splits each condition by active or resolved status | Largest ongoing groups: anemia (22), hypertension (16), ischemic heart disease (11) | [Query](sql/queries/02_active_vs_resolved_conditions.sql) · [Result](sql/results/02_active_vs_resolved_conditions.csv) |
