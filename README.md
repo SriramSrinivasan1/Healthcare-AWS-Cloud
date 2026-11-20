@@ -1,5 +1,6 @@
 # ☁️ Serverless Clinical Data Warehouse on AWS — From FHIR Records to Population Health Insights
- 
+
+![Synthea](https://img.shields.io/badge/Synthea-FHIR%20R4-2E8B57?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-8C4FFF?style=for-the-badge)
