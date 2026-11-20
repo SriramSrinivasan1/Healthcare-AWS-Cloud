@@ -1,0 +1,1149 @@
+patient_id,condition,onset_date,abatement_date,clinical_status
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Essential hypertension (disorder),2006-03-07,,active
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Gingival disease (disorder),2017-05-23,2017-05-23,resolved
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Acute viral pharyngitis (disorder),2017-09-02,2017-09-13,resolved
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Gingivitis (disorder),2019-05-21,2019-06-04,resolved
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Gingivitis (disorder),2022-06-07,2022-06-21,resolved
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Gingival disease (disorder),2022-06-21,2022-06-21,resolved
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Laceration - injury (disorder),2025-03-09,2025-04-02,resolved
+Abram53_Brekke496_fd51467b-6db3-bca2-66fc-f19eeaaa7e33,Laceration of thigh (disorder),2025-03-09,2025-04-02,resolved
+Ahmed109_Wiza601_cc63c2f1-1db0-28cb-0324-8be7310ddadd,Otitis media (disorder),2024-08-26,2024-10-21,resolved
+Ahmed109_Wiza601_cc63c2f1-1db0-28cb-0324-8be7310ddadd,Fracture of bone (disorder),2025-07-07,2025-09-28,resolved
+Ahmed109_Wiza601_cc63c2f1-1db0-28cb-0324-8be7310ddadd,Fracture of ankle (disorder),2025-07-07,2025-09-28,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Perennial allergic rhinitis (disorder),2014-11-07,,active
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Atopic dermatitis (disorder),2015-09-12,,active
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Streptococcal sore throat (disorder),2017-08-23,2017-09-05,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Acute viral pharyngitis (disorder),2020-01-15,2020-01-29,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Acute viral pharyngitis (disorder),2020-09-02,2020-09-09,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Gingivitis (disorder),2021-08-25,2021-09-01,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Acute viral pharyngitis (disorder),2022-12-31,2023-01-08,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Streptococcal sore throat (disorder),2023-08-08,2023-08-20,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Gingivitis (disorder),2023-08-16,2023-08-30,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Otitis media (disorder),2025-01-30,2025-09-24,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Gingivitis (disorder),2025-09-24,2025-10-08,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Gingivitis (disorder),2026-02-18,2026-03-25,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Acute bronchitis (disorder),2026-03-18,2026-03-31,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Infection of tooth (disorder),2026-03-25,2026-03-25,resolved
+Albina13_Pagac496_504af6a2-451e-d45e-cbc9-c8d7e3a34f2f,Alveolitis of jaw (disorder),2026-03-30,2026-03-30,resolved
+Alexander630_Hegmann834_ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0,Asthma (disorder),2011-03-13,,active
+Alexander630_Hegmann834_ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0,Acute bronchitis (disorder),2021-04-11,2021-04-20,resolved
+Alexander630_Hegmann834_ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0,Gingivitis (disorder),2021-04-18,2021-05-02,resolved
+Alexander630_Hegmann834_ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0,Gingivitis (disorder),2022-05-22,2022-06-05,resolved
+Alexander630_Hegmann834_ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0,Gingivitis (disorder),2023-05-28,2023-06-11,resolved
+Althea11_Welch179_815ff645-c396-834b-d0ee-0620a11710cf,Gingivitis (disorder),2020-01-27,2020-02-17,resolved
+Althea11_Welch179_815ff645-c396-834b-d0ee-0620a11710cf,Viral sinusitis (disorder),2020-02-24,2020-03-10,resolved
+Althea11_Welch179_815ff645-c396-834b-d0ee-0620a11710cf,Concussion injury of brain (disorder),2021-10-03,2021-11-19,resolved
+Althea11_Welch179_815ff645-c396-834b-d0ee-0620a11710cf,Concussion with loss of consciousness (disorder),2021-10-03,2021-11-19,resolved
+Althea11_Welch179_815ff645-c396-834b-d0ee-0620a11710cf,Gingivitis (disorder),2022-02-07,2022-02-21,resolved
+Althea11_Welch179_815ff645-c396-834b-d0ee-0620a11710cf,Gingivitis (disorder),2024-02-19,2024-03-04,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Primary fibromyalgia syndrome (disorder),2001-02-09,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Anemia (disorder),2005-11-16,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Malignant neoplasm of breast (disorder),2011-01-25,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Essential hypertension (disorder),2011-11-30,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Seizure disorder (disorder),2012-05-19,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Diabetes mellitus type 2 (disorder),2013-12-11,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Hyperglycemia (disorder),2014-12-17,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Hypertriglyceridemia (disorder),2014-12-17,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Metabolic syndrome X (disorder),2014-12-17,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Acute non-ST segment elevation myocardial infarction (disorder),2016-09-13,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Neuropathy due to type 2 diabetes mellitus (disorder),2016-12-28,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2018-01-03,2018-01-17,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Primary dental caries (disorder),2018-01-17,2018-01-17,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Laceration - injury (disorder),2018-09-06,2018-09-28,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Laceration of thigh (disorder),2018-09-06,2018-09-28,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Hyperlipidemia (disorder),2019-01-09,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Acute viral pharyngitis (disorder),2021-09-21,2021-09-28,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2021-09-29,2021-10-20,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Laceration - injury (disorder),2021-10-06,2021-10-30,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Laceration of thigh (disorder),2021-10-06,2021-10-30,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Acute bronchitis (disorder),2022-08-12,2022-08-27,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2023-02-01,2023-02-22,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Viral sinusitis (disorder),2023-03-01,2023-03-12,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Chronic kidney disease stage 1 (disorder),2025-10-08,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Disorder of kidney due to diabetes mellitus (disorder),2025-10-08,,active
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2025-12-03,2025-12-24,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingival disease (disorder),2025-12-24,2025-12-24,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2026-01-07,2026-01-21,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2026-04-01,2026-04-15,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingival disease (disorder),2026-04-15,2026-04-15,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2026-06-10,2026-06-24,resolved
+Angelyn934_Kandra693_Harris789_abbe7ce8-820b-cb76-8d0c-02fe9d9decb0,Gingivitis (disorder),2026-10-14,,active
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Viral sinusitis (disorder),2017-11-26,2017-12-23,resolved
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Injury of tendon of the rotator cuff of shoulder (disorder),2020-08-24,2020-11-07,resolved
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Acute bronchitis (disorder),2021-03-21,2021-03-31,resolved
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Viral sinusitis (disorder),2021-03-14,2021-03-28,resolved
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Anemia (disorder),2021-03-28,,active
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Gingival disease (disorder),2021-04-11,2021-04-11,resolved
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Viral sinusitis (disorder),2022-03-31,2022-04-21,resolved
+Antoine384_Jast432_254685ad-4f09-a8bf-bca9-85fafdfcf4c1,Sepsis (disorder),2025-10-15,,active
+Ariadna374_Ramírez776_ef74fec9-541e-fab6-90f5-540f1e951194,Fracture of bone (disorder),2018-07-25,2018-10-26,resolved
+Ariadna374_Ramírez776_ef74fec9-541e-fab6-90f5-540f1e951194,Fracture of forearm (disorder),2018-07-25,2018-10-26,resolved
+Ariadna374_Ramírez776_ef74fec9-541e-fab6-90f5-540f1e951194,Primary dental caries (disorder),2020-05-27,2020-05-27,resolved
+Ariadna374_Ramírez776_ef74fec9-541e-fab6-90f5-540f1e951194,Otitis media (disorder),2020-08-26,2020-11-17,resolved
+Ariadna374_Ramírez776_ef74fec9-541e-fab6-90f5-540f1e951194,Viral sinusitis (disorder),2023-12-17,2024-01-09,resolved
+Ariadna374_Ramírez776_ef74fec9-541e-fab6-90f5-540f1e951194,Viral sinusitis (disorder),2024-08-14,2024-08-30,resolved
+Ariadna374_Ramírez776_ef74fec9-541e-fab6-90f5-540f1e951194,Gingivitis (disorder),2025-06-10,2025-06-18,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Acute viral pharyngitis (disorder),2018-01-14,2018-01-28,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Acute viral pharyngitis (disorder),2018-11-11,2018-11-22,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Osteoarthritis of knee (disorder),2019-02-13,,active
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Miscarriage in first trimester (disorder),2020-08-30,2020-09-13,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Complete miscarriage (disorder),2020-08-30,2020-09-13,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Gingivitis (disorder),2020-09-06,2020-09-21,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Gingival disease (disorder),2020-09-20,2020-09-20,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-10-20,2020-10-30,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Pneumonia (disorder),2020-10-20,2020-10-30,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Hypoxemia (disorder),2020-10-20,2020-10-30,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Acute respiratory failure (disorder),2020-10-20,2020-10-30,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Gingivitis (disorder),2023-08-27,2023-09-10,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Gingivitis (disorder),2026-09-13,2026-09-27,resolved
+Arlene209_Reinger292_0f5801b2-5a83-6af7-c532-d96b5b8af729,Primary dental caries (disorder),2026-09-27,2026-09-27,resolved
+Art115_Harris789_2b6ff529-5434-6e3f-f7bb-2135c44dce07,Acute viral pharyngitis (disorder),2018-07-07,2018-07-17,resolved
+Art115_Harris789_2b6ff529-5434-6e3f-f7bb-2135c44dce07,Viral sinusitis (disorder),2024-04-10,2024-04-17,resolved
+Art115_Harris789_2b6ff529-5434-6e3f-f7bb-2135c44dce07,Gingivitis (disorder),2025-11-08,2025-11-22,resolved
+Art115_Harris789_2b6ff529-5434-6e3f-f7bb-2135c44dce07,Primary dental caries (disorder),2025-11-22,2025-11-22,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Gingivitis (disorder),2018-03-18,2018-04-01,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Gingival disease (disorder),2018-04-01,2018-04-01,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Acute viral pharyngitis (disorder),2019-11-11,2019-11-21,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Primary dental caries (disorder),2021-03-14,2021-03-14,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Gingivitis (disorder),2022-03-06,2022-03-20,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Streptococcal sore throat (disorder),2022-03-11,2022-03-18,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Acute viral pharyngitis (disorder),2022-09-19,2022-09-26,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Acute viral pharyngitis (disorder),2022-12-29,2023-01-06,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Viral sinusitis (disorder),2024-01-07,2024-02-03,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Viral sinusitis (disorder),2024-04-11,2024-04-22,resolved
+Asha251_Keila316_Champlin946_091a4b71-31ee-8d39-c0a6-c021b3951aed,Gingivitis (disorder),2026-03-29,2026-04-12,resolved
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Loss of teeth (disorder),2007-02-24,,active
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Anemia (disorder),2008-04-12,,active
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Acute bronchitis (disorder),2017-04-10,2017-04-23,resolved
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Gingivitis (disorder),2017-04-22,2017-05-06,resolved
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Polyp of colon (disorder),2019-01-17,2020-04-13,resolved
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Osteoporosis (disorder),2019-03-09,,active
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Viral sinusitis (disorder),2020-07-23,2020-08-19,resolved
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Gingivitis (disorder),2022-03-26,2022-04-09,resolved
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Essential hypertension (disorder),2024-04-06,,active
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Metabolic syndrome X (disorder),2024-04-06,,active
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Streptococcal sore throat (disorder),2024-07-29,2024-08-11,resolved
+Asia282_Prosacco716_3f0c90c7-2489-1306-ff69-868509c56635,Polyp of colon (disorder),2025-04-13,2026-09-08,resolved
+Astrid395_Ward668_e867c605-5382-756c-1d1f-a012fbc8d3b5,Primary dental caries (disorder),2018-07-28,2018-07-28,resolved
+Astrid395_Ward668_e867c605-5382-756c-1d1f-a012fbc8d3b5,Viral sinusitis (disorder),2020-04-04,2020-04-27,resolved
+Astrid395_Ward668_e867c605-5382-756c-1d1f-a012fbc8d3b5,Viral sinusitis (disorder),2021-04-28,2021-05-14,resolved
+Astrid395_Ward668_e867c605-5382-756c-1d1f-a012fbc8d3b5,Acute infective cystitis (disorder),2022-07-15,2022-07-15,resolved
+Astrid395_Ward668_e867c605-5382-756c-1d1f-a012fbc8d3b5,Sinusitis (disorder),2023-01-10,2023-02-06,resolved
+Astrid395_Ward668_e867c605-5382-756c-1d1f-a012fbc8d3b5,Viral sinusitis (disorder),2025-10-31,2025-11-16,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Gingivitis (disorder),2017-01-03,2017-01-17,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Viral sinusitis (disorder),2021-04-07,2021-04-27,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Essential hypertension (disorder),2022-02-01,,active
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Acute bronchitis (disorder),2022-05-27,2022-06-04,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Gingivitis (disorder),2022-06-07,2022-06-21,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Viral sinusitis (disorder),2023-09-22,2023-10-10,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Myocardial infarction (disorder),2024-05-08,2024-05-08,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Acute ST segment elevation myocardial infarction (disorder),2024-05-08,,active
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Sinusitis (disorder),2024-12-12,2025-03-07,resolved
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Chronic sinusitis (disorder),2025-01-10,,active
+Audrie782_Hammes673_3a58586c-0394-ac00-30cd-00ca8708ca39,Primary dental caries (disorder),2025-03-04,2025-03-04,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Recurrent urinary tract infection (disorder),1991-01-24,,active
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Eclampsia in pregnancy (disorder),2017-04-18,2017-05-09,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Anemia (disorder),2019-05-07,2019-12-03,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Gingivitis (disorder),2020-04-21,2020-05-05,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Gingival disease (disorder),2020-05-05,2020-05-05,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Laceration - injury (disorder),2021-04-08,2021-04-26,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Facial laceration (disorder),2021-04-08,2021-04-26,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Viral sinusitis (disorder),2022-05-28,2022-06-11,resolved
+Berta524_Virginia437_Villanueva621_068177c1-8d2f-d13f-6a1d-227d04383923,Gingivitis (disorder),2024-04-02,2024-04-16,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Viral sinusitis (disorder),2016-12-17,2016-12-25,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Viral sinusitis (disorder),2018-05-26,2018-06-19,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Gingivitis (disorder),2018-11-08,2018-11-15,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Viral sinusitis (disorder),2018-11-24,2018-12-09,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Injury of tendon of the rotator cuff of shoulder (disorder),2020-12-10,2021-02-22,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Acute viral pharyngitis (disorder),2022-01-15,2022-01-25,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Acute bronchitis (disorder),2023-12-26,2024-01-05,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Acute infective cystitis (disorder),2025-11-13,2025-11-15,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Gingivitis (disorder),2025-12-18,2026-01-01,resolved
+Billie243_Roberts511_4091b9f5-1779-c891-ea3d-0ef10828bcbd,Viral sinusitis (disorder),2026-07-08,2026-07-23,resolved
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Gingivitis (disorder),2017-06-16,2017-06-30,resolved
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-07-21,2020-08-24,resolved
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Gingivitis (disorder),2022-06-03,2022-06-17,resolved
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Gingival disease (disorder),2022-06-17,2022-06-17,resolved
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Essential hypertension (disorder),2023-06-09,,active
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Gingivitis (disorder),2023-06-09,2023-06-23,resolved
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Ischemic heart disease (disorder),2025-06-20,,active
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Gingivitis (disorder),2025-06-20,2025-07-11,resolved
+Birgit199_Sixta311_Shanahan202_0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d,Primary dental caries (disorder),2025-07-11,2025-07-11,resolved
+Brett333_Kirlin939_1d670d3c-f290-52f4-9409-aaffd1eb59f5,Gingival disease (disorder),2017-03-08,2017-03-08,resolved
+Brett333_Kirlin939_1d670d3c-f290-52f4-9409-aaffd1eb59f5,Gingivitis (disorder),2018-02-28,2018-03-14,resolved
+Brett333_Kirlin939_1d670d3c-f290-52f4-9409-aaffd1eb59f5,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2021-02-24,2021-03-22,resolved
+Brett333_Kirlin939_1d670d3c-f290-52f4-9409-aaffd1eb59f5,Gingivitis (disorder),2021-03-10,2021-03-24,resolved
+Brett333_Kirlin939_1d670d3c-f290-52f4-9409-aaffd1eb59f5,Acute bronchitis (disorder),2023-08-22,2023-09-09,resolved
+Brett333_Kirlin939_1d670d3c-f290-52f4-9409-aaffd1eb59f5,Gingivitis (disorder),2024-03-13,2024-03-27,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Otitis media (disorder),2019-01-30,2019-05-12,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Otitis media (disorder),2020-01-07,2020-02-09,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Acute bacterial sinusitis (disorder),2020-01-31,2020-04-07,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Chronic sinusitis (disorder),2020-02-25,,active
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Otitis media (disorder),2020-08-16,2021-02-07,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Viral sinusitis (disorder),2021-05-11,2021-05-28,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Viral sinusitis (disorder),2022-04-30,2022-05-23,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Acute viral pharyngitis (disorder),2022-06-05,2022-06-16,resolved
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Perennial allergic rhinitis (disorder),2023-05-21,,active
+Burt293_Rutherford999_34dd4106-4635-e94b-c4b1-640b0ea3c80d,Otitis media (disorder),2023-05-28,2023-08-13,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Miscarriage in first trimester (disorder),2017-04-15,2017-04-28,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Complete miscarriage (disorder),2017-04-15,2017-04-28,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Epidermal burn of skin (disorder),2017-07-18,2017-09-04,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Viral sinusitis (disorder),2018-07-03,2018-07-19,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Primary dental caries (disorder),2019-02-23,2019-02-23,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Acute viral pharyngitis (disorder),2019-05-04,2019-05-13,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Miscarriage in first trimester (disorder),2021-05-29,2021-06-16,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Blighted ovum (disorder),2021-05-29,2021-06-16,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Viral sinusitis (disorder),2021-08-12,2021-08-20,resolved
+Carmelina668_Jeane173_Shanahan202_55612fe8-9071-4a97-8e4c-8cc653c8394c,Streptococcal sore throat (disorder),2025-01-16,2025-01-29,resolved
+Chandra831_Sanford861_b11899dd-7755-73bd-cc39-d6eea54d15a1,Gingivitis (disorder),2016-12-05,2016-12-13,resolved
+Chandra831_Sanford861_b11899dd-7755-73bd-cc39-d6eea54d15a1,Infection of tooth (disorder),2016-12-13,2016-12-13,resolved
+Chandra831_Sanford861_b11899dd-7755-73bd-cc39-d6eea54d15a1,Gingivitis (disorder),2019-12-24,2020-01-07,resolved
+Chandra831_Sanford861_b11899dd-7755-73bd-cc39-d6eea54d15a1,Sprain of wrist (disorder),2023-06-02,2023-06-24,resolved
+Chandra831_Sanford861_b11899dd-7755-73bd-cc39-d6eea54d15a1,Viral sinusitis (disorder),2024-02-29,2024-03-07,resolved
+Chandra831_Sanford861_b11899dd-7755-73bd-cc39-d6eea54d15a1,Gingivitis (disorder),2026-01-27,2026-02-10,resolved
+Chantay958_Schuster709_65cc56ef-1ffc-bfac-aa6f-fe828e6da128,Seizure disorder (disorder),1979-05-18,,active
+Christal240_Cronin387_7552a042-626c-d9fa-ccc1-523d94adc321,Acute viral pharyngitis (disorder),2017-10-07,2017-10-16,resolved
+Christal240_Cronin387_7552a042-626c-d9fa-ccc1-523d94adc321,Gingival disease (disorder),2018-08-24,2018-08-24,resolved
+Christal240_Cronin387_7552a042-626c-d9fa-ccc1-523d94adc321,Miscarriage in first trimester (disorder),2019-01-18,2019-02-15,resolved
+Christal240_Cronin387_7552a042-626c-d9fa-ccc1-523d94adc321,Tubal pregnancy (disorder),2019-01-18,2019-02-15,resolved
+Christal240_Cronin387_7552a042-626c-d9fa-ccc1-523d94adc321,Acute viral pharyngitis (disorder),2022-05-25,2022-06-04,resolved
+Christal240_Cronin387_7552a042-626c-d9fa-ccc1-523d94adc321,Acute bronchitis (disorder),2024-03-19,2024-04-04,resolved
+Christal240_Cronin387_7552a042-626c-d9fa-ccc1-523d94adc321,Osteoarthritis of hip (disorder),2024-07-23,,active
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Gingivitis (disorder),2016-11-21,2016-12-05,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Infection of tooth (disorder),2019-09-23,2019-09-23,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Gingival disease (disorder),2019-09-24,2019-09-24,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Viral sinusitis (disorder),2021-04-08,2021-04-17,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Gingivitis (disorder),2021-09-13,2021-09-27,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Miscarriage in first trimester (disorder),2021-10-11,2021-11-15,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Tubal pregnancy (disorder),2021-10-11,2021-11-15,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Viral sinusitis (disorder),2024-04-09,2024-05-06,resolved
+Christeen33_Angeline97_Braun514_69bacca4-0807-043d-cf29-3bcdd444566a,Acute viral pharyngitis (disorder),2025-09-23,2025-10-07,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Gingivitis (disorder),2018-09-27,2018-10-11,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Acute viral pharyngitis (disorder),2020-06-01,2020-06-10,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Primary dental caries (disorder),2020-10-22,2020-10-22,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Acute viral pharyngitis (disorder),2022-04-02,2022-04-16,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Gingivitis (disorder),2022-10-20,2022-10-27,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Gingivitis (disorder),2023-10-26,2023-11-09,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Viral sinusitis (disorder),2025-12-22,2026-01-07,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Acute bronchitis (disorder),2026-08-10,2026-08-20,resolved
+Chu728_Schmeler639_bae49511-dd8c-d6df-e7be-b77c768bedcc,Gingivitis (disorder),2026-08-20,2026-09-03,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Gingivitis (disorder),2017-05-13,2017-05-27,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Gingivitis (disorder),2019-05-25,2019-06-08,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Gingival disease (disorder),2019-06-08,2019-06-08,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Miscarriage in first trimester (disorder),2022-01-29,2022-02-27,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Tubal pregnancy (disorder),2022-01-29,2022-02-27,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Viral sinusitis (disorder),2024-07-04,2024-07-20,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Miscarriage in first trimester (disorder),2025-08-16,2025-08-27,resolved
+Cleo27_Paucek755_35888667-7e81-9343-2db6-3cfa9fa4e01b,Complete miscarriage (disorder),2025-08-16,2025-08-27,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Asthma (disorder),2014-02-16,,active
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2018-03-11,2018-03-25,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2020-03-22,2020-04-05,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2021-03-28,2021-04-11,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Acute bronchitis (disorder),2021-09-21,2021-10-01,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2022-04-03,2022-04-17,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Sinusitis (disorder),2022-06-26,2022-08-28,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Chronic sinusitis (disorder),2022-08-07,,active
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2022-08-14,2022-08-28,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Miscarriage in second trimester (disorder),2023-03-05,2023-03-18,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Fetus with chromosomal abnormality (disorder),2023-03-05,2023-03-18,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2024-04-14,2024-04-28,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2025-04-20,2025-05-04,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingival disease (disorder),2025-05-04,2025-05-04,resolved
+Corina534_Hae300_Rutherford999_1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0,Gingivitis (disorder),2026-04-26,2026-05-10,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Impacted molars (disorder),2001-08-18,,active
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Dependent drug abuse (disorder),2001-10-13,,active
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Viral sinusitis (disorder),2016-11-28,2016-12-14,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Gingivitis (disorder),2018-06-12,2018-06-27,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Gingival disease (disorder),2018-06-26,2018-06-27,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Primary dental caries (disorder),2018-06-27,2018-06-27,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Overdose (disorder),2019-07-21,2019-07-22,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Overdose (disorder),2021-05-12,2021-05-12,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Overdose (disorder),2023-06-08,2023-06-09,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Fracture of bone (disorder),2024-08-01,2024-09-03,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Fracture of ankle (disorder),2024-08-01,2024-09-03,resolved
+Cornell131_Parker433_8034b960-0ebd-4e25-e008-d3f60d1b51fe,Overdose (disorder),2025-10-15,2025-10-15,resolved
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Gingivitis (disorder),2018-03-08,2018-03-22,resolved
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Acute viral pharyngitis (disorder),2021-03-15,2021-03-26,resolved
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Viral sinusitis (disorder),2022-01-24,2022-02-07,resolved
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Gingivitis (disorder),2022-03-31,2022-04-14,resolved
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Viral sinusitis (disorder),2022-05-13,2022-05-21,resolved
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Mitral valve regurgitation (disorder),2022-09-13,,active
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Gingivitis (disorder),2023-04-06,2023-04-20,resolved
+Crystle668_Hartmann983_bb494bf8-339d-d47a-e819-b9cd2a11f248,Viral sinusitis (disorder),2024-05-18,2024-06-13,resolved
+Cyndy549_Luisa710_Casper496_111cdc71-87ec-e924-559b-09417c3bef49,Recurrent urinary tract infection (disorder),2010-09-04,,active
+Cyndy549_Luisa710_Casper496_111cdc71-87ec-e924-559b-09417c3bef49,Viral sinusitis (disorder),2018-07-24,2018-08-11,resolved
+Cyndy549_Luisa710_Casper496_111cdc71-87ec-e924-559b-09417c3bef49,Laceration - injury (disorder),2020-12-15,2021-01-04,resolved
+Cyndy549_Luisa710_Casper496_111cdc71-87ec-e924-559b-09417c3bef49,Facial laceration (disorder),2020-12-15,2021-01-04,resolved
+Cyndy549_Luisa710_Casper496_111cdc71-87ec-e924-559b-09417c3bef49,Viral sinusitis (disorder),2021-08-04,2021-08-23,resolved
+Cyndy549_Luisa710_Casper496_111cdc71-87ec-e924-559b-09417c3bef49,Gingivitis (disorder),2022-01-08,2022-01-22,resolved
+Daniell603_Swift555_765b0c56-0d24-6ccc-57ca-ec77b23b8f20,Anemia (disorder),2019-11-11,2020-07-06,resolved
+Daniell603_Swift555_765b0c56-0d24-6ccc-57ca-ec77b23b8f20,Gingivitis (disorder),2020-03-23,2020-04-06,resolved
+Daniell603_Swift555_765b0c56-0d24-6ccc-57ca-ec77b23b8f20,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-08-31,2020-09-18,resolved
+Daniell603_Swift555_765b0c56-0d24-6ccc-57ca-ec77b23b8f20,Eclampsia in pregnancy (disorder),2023-12-18,2024-01-08,resolved
+Daniell603_Swift555_765b0c56-0d24-6ccc-57ca-ec77b23b8f20,Miscarriage in first trimester (disorder),2024-12-23,2025-01-01,resolved
+Daniell603_Swift555_765b0c56-0d24-6ccc-57ca-ec77b23b8f20,Blighted ovum (disorder),2024-12-23,2025-01-01,resolved
+Daniell603_Swift555_765b0c56-0d24-6ccc-57ca-ec77b23b8f20,Viral sinusitis (disorder),2026-01-05,2026-01-16,resolved
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Recurrent urinary tract infection (disorder),1988-04-06,,active
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Chronic obstructive bronchitis (disorder),2002-09-24,,active
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Transformed migraine (disorder),2014-02-06,,active
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Acute bronchitis (disorder),2019-05-14,2019-05-21,resolved
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Sprain of ankle (disorder),2019-07-23,2019-08-19,resolved
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Ischemic heart disease (disorder),2020-08-18,,active
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Gingivitis (disorder),2021-08-24,2021-09-07,resolved
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Idiopathic atrophic hypothyroidism (disorder),2022-02-26,,active
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Gingivitis (disorder),2023-09-05,2023-09-19,resolved
+Danyell947_Siu135_Waelchi213_4ecd0e49-cbdb-31b8-06ae-258290d6c788,Gingivitis (disorder),2025-09-16,2025-09-30,resolved
+Darcey370_Justin359_Greenholt190_3f1cdc02-cefc-7d35-e532-d1db16745688,Pulmonary emphysema (disorder),2000-03-20,,active
+Darcey370_Justin359_Greenholt190_3f1cdc02-cefc-7d35-e532-d1db16745688,Otitis media (disorder),2018-05-18,2018-08-13,resolved
+Darcey370_Justin359_Greenholt190_3f1cdc02-cefc-7d35-e532-d1db16745688,Acute infective cystitis (disorder),2018-05-22,2018-05-24,resolved
+Darcey370_Justin359_Greenholt190_3f1cdc02-cefc-7d35-e532-d1db16745688,Sprain of wrist (disorder),2020-02-29,2020-03-16,resolved
+Darcey370_Justin359_Greenholt190_3f1cdc02-cefc-7d35-e532-d1db16745688,Gingivitis (disorder),2022-08-01,2022-08-15,resolved
+Darcey370_Justin359_Greenholt190_3f1cdc02-cefc-7d35-e532-d1db16745688,Viral sinusitis (disorder),2022-08-08,2022-08-18,resolved
+Darcey370_Justin359_Greenholt190_3f1cdc02-cefc-7d35-e532-d1db16745688,Gingivitis (disorder),2024-09-16,2024-09-30,resolved
+Darin74_Brakus656_b177c33a-b882-ad97-1865-1803f643116a,Acute bronchitis (disorder),2017-01-19,2017-01-29,resolved
+Darin74_Brakus656_b177c33a-b882-ad97-1865-1803f643116a,Acute bronchitis (disorder),2017-12-11,2017-12-23,resolved
+Darin74_Brakus656_b177c33a-b882-ad97-1865-1803f643116a,Gingivitis (disorder),2021-06-14,2021-06-28,resolved
+Darin74_Brakus656_b177c33a-b882-ad97-1865-1803f643116a,Streptococcal sore throat (disorder),2024-04-28,2024-05-10,resolved
+Darin74_Brakus656_b177c33a-b882-ad97-1865-1803f643116a,Acute viral pharyngitis (disorder),2024-07-12,2024-07-26,resolved
+Darin74_Brakus656_b177c33a-b882-ad97-1865-1803f643116a,Gingivitis (disorder),2026-07-13,2026-07-27,resolved
+Delmer311_Ortiz186_ec084d82-e517-88af-cc1d-a0881be0f970,Viral sinusitis (disorder),2016-11-12,2016-11-19,resolved
+Delmer311_Ortiz186_ec084d82-e517-88af-cc1d-a0881be0f970,Gingivitis (disorder),2019-02-15,2019-03-01,resolved
+Delmer311_Ortiz186_ec084d82-e517-88af-cc1d-a0881be0f970,Gingivitis (disorder),2021-02-19,2021-03-05,resolved
+Delmer311_Ortiz186_ec084d82-e517-88af-cc1d-a0881be0f970,Gingival disease (disorder),2021-03-05,2021-03-05,resolved
+Delmer311_Ortiz186_ec084d82-e517-88af-cc1d-a0881be0f970,Primary dental caries (disorder),2021-03-05,2021-03-05,resolved
+Delmer311_Ortiz186_ec084d82-e517-88af-cc1d-a0881be0f970,Primary dental caries (disorder),2023-02-10,2023-02-10,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Essential hypertension (disorder),1981-06-20,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Chronic intractable migraine without aura (disorder),1990-04-20,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Impacted molars (disorder),1990-09-08,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Anemia (disorder),1993-08-28,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Metabolic syndrome X (disorder),1995-09-09,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Diabetes mellitus type 2 (disorder),1996-09-14,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Hypertriglyceridemia (disorder),1997-09-20,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Dependent drug abuse (disorder),1998-11-03,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Ischemic heart disease (disorder),2013-12-28,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2017-01-14,2017-01-28,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2017-12-23,2018-01-06,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Viral sinusitis (disorder),2017-12-30,2018-01-20,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingival disease (disorder),2018-01-06,2018-01-06,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Acute viral pharyngitis (disorder),2018-02-18,2018-02-28,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2019-01-26,2019-02-09,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Streptococcal sore throat (disorder),2019-06-25,2019-07-08,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Overdose (disorder),2019-08-11,2019-08-11,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2020-02-01,2020-02-15,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Neuropathy due to type 2 diabetes mellitus (disorder),2021-02-06,,active
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2022-02-12,2022-02-26,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2022-07-09,2022-07-23,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Viral sinusitis (disorder),2022-07-16,2022-07-26,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Overdose (disorder),2023-03-05,2023-03-05,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Viral sinusitis (disorder),2023-03-31,2023-04-09,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2024-02-24,2024-03-09,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingivitis (disorder),2025-03-01,2025-03-15,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Gingival disease (disorder),2025-03-15,2025-03-15,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Primary dental caries (disorder),2025-03-15,2025-03-15,resolved
+Denisha680_Anita473_Kuphal363_7fc5a38e-c3da-07c2-2015-d9802d305f0a,Overdose (disorder),2026-07-23,2026-07-24,resolved
+Ed239_Mohr916_b3d9fe5d-04e1-dc3e-ceef-0719f236eff6,Gingivitis (disorder),2019-04-04,2019-04-18,resolved
+Ed239_Mohr916_b3d9fe5d-04e1-dc3e-ceef-0719f236eff6,Acute bronchitis (disorder),2020-09-10,2020-09-19,resolved
+Ed239_Mohr916_b3d9fe5d-04e1-dc3e-ceef-0719f236eff6,Gingivitis (disorder),2021-04-15,2021-04-29,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Child attention deficit disorder (disorder),2008-04-29,2018-06-17,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Chronic sinusitis (disorder),2011-08-08,,active
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Acute infective cystitis (disorder),2017-08-02,2017-08-03,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Recurrent urinary tract infection (disorder),2017-12-31,,active
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Acute infective cystitis (disorder),2017-12-31,2018-01-01,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Viral sinusitis (disorder),2019-10-06,2019-10-15,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Viral sinusitis (disorder),2020-07-18,2020-08-12,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-07-28,2020-08-16,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Pneumonia (disorder),2020-07-28,2020-08-16,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Hypoxemia (disorder),2020-07-28,2020-08-16,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Acute pulmonary embolism (disorder),2020-08-11,2020-08-16,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Viral sinusitis (disorder),2022-12-08,2023-01-04,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Acute bronchitis (disorder),2025-04-09,2025-04-17,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Gingivitis (disorder),2025-04-20,2025-05-04,resolved
+Eilene124_Block661_24063415-797f-9c67-c94c-067c97345275,Acute viral pharyngitis (disorder),2025-10-03,2025-10-13,resolved
+Eliseo499_Kihn564_e5863ab8-893d-3e6b-3da4-b903413869e2,Gingivitis (disorder),2017-08-03,2017-08-17,resolved
+Eliseo499_Kihn564_e5863ab8-893d-3e6b-3da4-b903413869e2,Gingival disease (disorder),2017-08-17,2017-08-17,resolved
+Eliseo499_Kihn564_e5863ab8-893d-3e6b-3da4-b903413869e2,Acute viral pharyngitis (disorder),2020-08-17,2020-08-26,resolved
+Eliseo499_Kihn564_e5863ab8-893d-3e6b-3da4-b903413869e2,Primary dental caries (disorder),2021-08-26,2021-08-26,resolved
+Eliseo499_Kihn564_e5863ab8-893d-3e6b-3da4-b903413869e2,Gingivitis (disorder),2024-08-15,2024-08-29,resolved
+Ellsworth48_Hayes766_51bda7a1-3926-7bdb-b251-d602cf6ed79e,Gingival disease (disorder),2019-02-09,2019-02-09,resolved
+Ellsworth48_Hayes766_51bda7a1-3926-7bdb-b251-d602cf6ed79e,Sprain of ankle (disorder),2024-03-01,2024-04-02,resolved
+Ellsworth48_Hayes766_51bda7a1-3926-7bdb-b251-d602cf6ed79e,Primary dental caries (disorder),2025-02-01,2025-02-01,resolved
+Ellsworth48_Hayes766_51bda7a1-3926-7bdb-b251-d602cf6ed79e,Anemia (disorder),2026-01-24,,active
+Ellsworth48_Hayes766_51bda7a1-3926-7bdb-b251-d602cf6ed79e,Epidermal burn of skin (disorder),2026-02-23,2026-03-30,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Loss of teeth (disorder),2013-08-23,,active
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Viral sinusitis (disorder),2017-04-14,2017-05-04,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Eclampsia in pregnancy (disorder),2018-02-02,2018-03-02,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Acute bacterial sinusitis (disorder),2019-05-31,2019-07-18,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Gingivitis (disorder),2019-09-06,2019-09-20,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Gingivitis (disorder),2020-09-11,2020-09-25,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Miscarriage in first trimester (disorder),2021-06-25,2021-07-13,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Complete miscarriage (disorder),2021-06-25,2021-07-13,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Gingivitis (disorder),2022-09-23,2022-10-07,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Gingival disease (disorder),2022-10-07,2022-10-07,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Gingivitis (disorder),2023-09-29,2023-10-13,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Gingival disease (disorder),2023-10-13,2023-10-13,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Gingivitis (disorder),2025-10-10,2025-10-24,resolved
+Evia329_Rocio28_Kuphal363_242e8aeb-c9c2-0594-a1f3-15ce7014698e,Anemia (disorder),2026-10-16,,active
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Asthma (disorder),1979-10-15,,active
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Anemia (disorder),1988-12-05,,active
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Ischemic heart disease (disorder),2014-04-28,,active
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Acute viral pharyngitis (disorder),2018-06-27,2018-07-06,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Sprain of ankle (disorder),2019-10-24,2019-12-01,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2021-04-09,2021-05-07,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Acute viral pharyngitis (disorder),2023-02-13,2023-02-26,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Gingivitis (disorder),2023-06-19,2023-07-03,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Gingival disease (disorder),2023-07-03,2023-07-03,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Gingivitis (disorder),2025-06-30,2025-07-14,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Polyp of colon (disorder),2025-08-15,,active
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Gingivitis (disorder),2026-07-06,2026-07-20,resolved
+Fernando603_Stehr398_3becd134-79d8-dc95-1d60-a9255e9e210b,Gingival disease (disorder),2026-07-20,2026-07-20,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Primary fibromyalgia syndrome (disorder),2000-09-01,,active
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Ischemic heart disease (disorder),2009-11-15,,active
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Recurrent urinary tract infection (disorder),2012-10-12,,active
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Osteoporosis (disorder),2012-12-02,,active
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingivitis (disorder),2016-12-25,2017-01-08,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingival disease (disorder),2017-01-08,2017-01-08,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Osteoarthritis of knee (disorder),2017-11-11,,active
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingival disease (disorder),2018-01-14,2018-01-14,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Sprain of ankle (disorder),2018-07-24,2018-08-28,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Primary dental caries (disorder),2018-10-28,2018-10-28,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Viral sinusitis (disorder),2018-11-04,2018-11-24,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingivitis (disorder),2019-01-06,2019-01-20,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingivitis (disorder),2021-01-17,2021-01-31,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingivitis (disorder),2022-01-23,2022-02-06,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingivitis (disorder),2022-08-14,2022-08-28,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Viral sinusitis (disorder),2022-08-14,2022-08-23,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Gingivitis (disorder),2025-02-09,2025-02-23,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Myocardial infarction (disorder),2025-02-14,2025-02-14,resolved
+Franklin857_Kris249_88deb12c-4d82-d1bc-6298-7cee4e3c3d0d,Acute ST segment elevation myocardial infarction (disorder),2025-02-14,,active
+Fredericka800_Cummings51_49dfe873-b7aa-0c75-5a43-4bcc125bc3e9,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2021-01-09,2021-02-06,resolved
+Fredericka800_Cummings51_49dfe873-b7aa-0c75-5a43-4bcc125bc3e9,Acute viral pharyngitis (disorder),2021-04-17,2021-04-24,resolved
+Fredericka800_Cummings51_49dfe873-b7aa-0c75-5a43-4bcc125bc3e9,Gingivitis (disorder),2022-04-04,2022-04-19,resolved
+Fredericka800_Cummings51_49dfe873-b7aa-0c75-5a43-4bcc125bc3e9,Acute infective cystitis (disorder),2022-11-17,2022-11-21,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Acute bronchitis (disorder),2017-02-23,2017-03-09,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Gingivitis (disorder),2017-05-22,2017-05-30,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Viral sinusitis (disorder),2019-12-09,2019-12-25,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Viral sinusitis (disorder),2021-09-23,2021-10-08,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Acute bronchitis (disorder),2022-04-28,2022-05-17,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Gingivitis (disorder),2022-05-09,2022-05-24,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Gingivitis (disorder),2023-06-26,2023-07-11,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Acute viral pharyngitis (disorder),2023-12-18,2023-12-31,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Gingivitis (disorder),2024-07-01,2024-07-16,resolved
+Gregoria352_Marquardt819_1d1330ae-1be0-09c5-040e-dc59176bf0d5,Primary dental caries (disorder),2024-07-16,2024-07-16,resolved
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Anemia (disorder),1995-08-14,,active
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Osteoarthritis of knee (disorder),2009-08-17,,active
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Gingivitis (disorder),2018-07-09,2018-07-23,resolved
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Primary dental caries (disorder),2019-07-29,2019-07-29,resolved
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Acute bronchitis (disorder),2021-03-15,2021-04-04,resolved
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Gingivitis (disorder),2023-08-07,2023-08-21,resolved
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Myocardial infarction (disorder),2024-12-24,2024-12-24,resolved
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Acute non-ST segment elevation myocardial infarction (disorder),2024-12-24,,active
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Gingivitis (disorder),2026-08-24,2026-09-07,resolved
+Guy979_Kirlin939_3428c73d-cb8d-c081-e31c-bfee397eb4bb,Primary dental caries (disorder),2026-09-07,2026-09-07,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Child attention deficit disorder (disorder),1979-03-21,1984-02-24,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Sprain of ankle (disorder),1981-07-20,1981-08-20,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Gingivitis (disorder),1982-04-02,1982-04-16,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Laceration - injury (disorder),1982-08-11,1982-08-25,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Laceration of hand (disorder),1982-08-11,1982-08-25,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Acute bronchitis (disorder),1983-06-03,1983-06-19,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Gingivitis (disorder),1984-04-13,1984-04-27,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Infection of tooth (disorder),1985-05-03,1985-05-03,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Primary dental caries (disorder),1985-05-03,1985-05-03,resolved
+Humberto482_Kohler843_f75ba0c0-3571-3d63-e40b-fbd8571ce025,Seizure disorder (disorder),1985-09-05,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Essential hypertension (disorder),1959-11-06,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Ischemic heart disease (disorder),1980-02-29,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Osteoarthritis of knee (disorder),1988-11-16,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Metabolic syndrome X (disorder),1991-05-03,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Diabetes mellitus type 2 (disorder),1991-05-03,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Hypertriglyceridemia (disorder),1992-05-08,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Anemia (disorder),1992-05-08,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Loss of teeth (disorder),1997-06-27,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Gingivitis (disorder),2001-06-29,2001-07-13,resolved
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Acute infective cystitis (disorder),2003-08-31,2003-09-01,resolved
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Viral sinusitis (disorder),2006-12-16,2007-01-03,resolved
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Viral sinusitis (disorder),2007-03-10,2007-04-01,resolved
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Fracture of bone (disorder),2007-04-04,2007-08-10,resolved
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Fracture of ankle (disorder),2007-04-04,2007-08-10,resolved
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Chronic kidney disease stage 1 (disorder),2008-08-08,,active
+Ignacio928_Hartmann983_10bb8914-0338-90ea-87ff-9231ff231563,Disorder of kidney due to diabetes mellitus (disorder),2008-08-08,,active
+Indira327_Wintheiser220_1c9ea0cc-8cef-5c42-9b2a-ecf6fb2a4627,Perennial allergic rhinitis with seasonal variation (disorder),2012-11-17,,active
+Indira327_Wintheiser220_1c9ea0cc-8cef-5c42-9b2a-ecf6fb2a4627,Gingival disease (disorder),2020-08-29,2020-08-29,resolved
+Indira327_Wintheiser220_1c9ea0cc-8cef-5c42-9b2a-ecf6fb2a4627,Viral sinusitis (disorder),2020-09-05,2020-09-16,resolved
+Indira327_Wintheiser220_1c9ea0cc-8cef-5c42-9b2a-ecf6fb2a4627,Gingivitis (disorder),2023-10-14,2023-10-28,resolved
+Indira327_Wintheiser220_1c9ea0cc-8cef-5c42-9b2a-ecf6fb2a4627,Viral sinusitis (disorder),2024-01-20,2024-02-09,resolved
+Indira327_Wintheiser220_1c9ea0cc-8cef-5c42-9b2a-ecf6fb2a4627,Gingivitis (disorder),2026-02-07,2026-02-21,resolved
+Indira327_Wintheiser220_1c9ea0cc-8cef-5c42-9b2a-ecf6fb2a4627,Viral sinusitis (disorder),2026-02-28,2026-03-26,resolved
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Seizure disorder (disorder),1957-11-29,,active
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Epilepsy (disorder),1957-11-29,,active
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Chronic sinusitis (disorder),1972-05-26,,active
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Recurrent urinary tract infection (disorder),1974-03-15,,active
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Anemia (disorder),1997-10-24,,active
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Acute non-ST segment elevation myocardial infarction (disorder),2012-01-03,,active
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Gingivitis (disorder),2019-12-27,2020-01-10,resolved
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Gingivitis (disorder),2025-01-24,2025-02-07,resolved
+Iraida50_Tarsha65_Lebsack687_49fd2675-243c-0fbf-f68e-fe178b0a5fca,Gingivitis (disorder),2026-01-30,2026-02-13,resolved
+Jaleesa813_Marva153_Johnson679_e4f07ffe-9732-4495-2876-3829e3677829,Acute viral pharyngitis (disorder),2004-06-30,2004-07-09,resolved
+Jaleesa813_Marva153_Johnson679_e4f07ffe-9732-4495-2876-3829e3677829,Gingivitis (disorder),2004-07-08,2004-07-22,resolved
+Jaleesa813_Marva153_Johnson679_e4f07ffe-9732-4495-2876-3829e3677829,Acute viral pharyngitis (disorder),2009-07-14,2009-07-21,resolved
+Jaleesa813_Marva153_Johnson679_e4f07ffe-9732-4495-2876-3829e3677829,Acute bronchitis (disorder),2010-12-22,2010-12-29,resolved
+Jaleesa813_Marva153_Johnson679_e4f07ffe-9732-4495-2876-3829e3677829,Gingival disease (disorder),2012-06-21,2012-06-21,resolved
+Jaleesa813_Marva153_Johnson679_e4f07ffe-9732-4495-2876-3829e3677829,Primary dental caries (disorder),2012-06-21,2012-06-21,resolved
+Jed345_Kilback373_d8bb1b82-8deb-201a-0fe8-308f79ce31a8,Acute viral pharyngitis (disorder),2022-05-25,2022-06-05,resolved
+Jed345_Kilback373_d8bb1b82-8deb-201a-0fe8-308f79ce31a8,Acute bacterial sinusitis (disorder),2022-06-20,2022-07-23,resolved
+Jed345_Kilback373_d8bb1b82-8deb-201a-0fe8-308f79ce31a8,Primary dental caries (disorder),2025-02-05,2025-02-05,resolved
+Jed345_Kilback373_d8bb1b82-8deb-201a-0fe8-308f79ce31a8,Acute viral pharyngitis (disorder),2025-09-22,2025-09-29,resolved
+Johnathan55_Luettgen772_141a1044-5626-4d31-2f1b-eee5da610008,Otitis media (disorder),2016-12-21,2017-03-02,resolved
+Johnathan55_Luettgen772_141a1044-5626-4d31-2f1b-eee5da610008,Otitis media (disorder),2018-01-26,2018-03-01,resolved
+Johnathan55_Luettgen772_141a1044-5626-4d31-2f1b-eee5da610008,Viral sinusitis (disorder),2019-01-16,2019-01-31,resolved
+Johnathan55_Luettgen772_141a1044-5626-4d31-2f1b-eee5da610008,Viral sinusitis (disorder),2019-05-10,2019-06-02,resolved
+Johnathan55_Luettgen772_141a1044-5626-4d31-2f1b-eee5da610008,Acute viral pharyngitis (disorder),2020-05-05,2020-05-14,resolved
+Johnathan55_Luettgen772_141a1044-5626-4d31-2f1b-eee5da610008,Viral sinusitis (disorder),2023-04-18,2023-05-07,resolved
+Johnathan55_Luettgen772_141a1044-5626-4d31-2f1b-eee5da610008,Gingival disease (disorder),2026-10-08,2026-10-08,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Otitis media (disorder),2017-05-03,2017-08-10,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Streptococcal sore throat (disorder),2017-08-17,2017-08-30,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Gingival disease (disorder),2018-10-25,2018-10-25,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Acute viral pharyngitis (disorder),2021-04-15,2021-04-27,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Fracture of bone (disorder),2022-07-11,2022-09-30,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Fracture subluxation of wrist (disorder),2022-07-11,2022-09-30,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Gingivitis (disorder),2023-05-11,2023-05-18,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Gingival disease (disorder),2023-05-18,2023-05-18,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Gingivitis (disorder),2025-05-22,2025-05-29,resolved
+Josiah310_Volkman526_bd9dfdd1-aebf-018a-774f-e531d29678e5,Primary dental caries (disorder),2026-06-04,2026-06-04,resolved
+Julio255_Lowe577_2b9f45d6-b742-8a68-3a22-b9ff8df93521,Otitis media (disorder),2022-09-22,2022-10-06,resolved
+Julio255_Lowe577_2b9f45d6-b742-8a68-3a22-b9ff8df93521,Viral sinusitis (disorder),2022-10-30,2022-11-25,resolved
+Julio255_Lowe577_2b9f45d6-b742-8a68-3a22-b9ff8df93521,Otitis media (disorder),2023-07-03,2023-10-06,resolved
+Julio255_Lowe577_2b9f45d6-b742-8a68-3a22-b9ff8df93521,Infection of tooth (disorder),2024-04-12,2024-04-12,resolved
+Julio255_Lowe577_2b9f45d6-b742-8a68-3a22-b9ff8df93521,Primary dental caries (disorder),2024-04-12,2024-04-12,resolved
+Julio255_Lowe577_2b9f45d6-b742-8a68-3a22-b9ff8df93521,Alveolitis of jaw (disorder),2024-04-17,2024-04-17,resolved
+Julio255_Lowe577_2b9f45d6-b742-8a68-3a22-b9ff8df93521,Viral sinusitis (disorder),2024-07-26,2024-08-13,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Anemia (disorder),1962-11-09,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Hyperlipidemia (disorder),1985-09-20,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Essential hypertension (disorder),1986-09-26,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Diabetes mellitus type 2 (disorder),1990-10-19,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Hypertriglyceridemia (disorder),1991-10-25,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Metabolic syndrome X (disorder),1991-10-25,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Neuropathy due to type 2 diabetes mellitus (disorder),1992-10-30,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Dependent drug abuse (disorder),1993-06-08,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Ischemic heart disease (disorder),1998-12-04,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Chronic kidney disease stage 1 (disorder),2012-12-14,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Disorder of kidney due to diabetes mellitus (disorder),2012-12-14,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Aortic valve stenosis (disorder),2013-08-07,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2016-11-11,2016-11-25,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Alzheimer's disease (disorder),2016-12-16,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2017-04-21,2017-05-05,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2017-05-05,2017-05-05,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2017-05-19,2017-06-02,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Infection of tooth (disorder),2017-06-02,2017-06-02,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2017-06-02,2017-06-02,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Loss of teeth (disorder),2017-06-09,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2017-06-23,2017-07-14,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2017-10-13,2017-10-27,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2017-12-08,2017-12-29,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2017-12-29,2017-12-29,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2018-03-16,2018-04-06,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2018-04-06,2018-04-06,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2018-05-11,2018-05-25,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2018-05-25,2018-05-25,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2019-06-21,2019-07-05,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Infection of tooth (disorder),2019-09-20,2019-09-20,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Overdose (disorder),2019-09-27,2019-09-27,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2019-12-06,2019-12-20,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2019-12-20,2019-12-20,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Infection of tooth (disorder),2020-01-17,2020-01-17,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Alveolitis of jaw (disorder),2020-01-22,2020-01-22,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2020-05-22,2020-06-19,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2020-07-10,2020-07-24,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Chronic kidney disease stage 2 (disorder),2020-08-07,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Microalbuminuria due to type 2 diabetes mellitus (disorder),2020-08-07,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2021-03-26,2021-04-23,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2021-07-30,2021-08-13,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Osteoporosis (disorder),2021-08-27,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Primary dental caries (disorder),2021-10-15,2021-10-15,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2021-11-19,2021-12-03,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2022-02-04,2022-02-04,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2022-03-25,2022-04-08,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Overdose (disorder),2022-05-13,2022-05-13,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2022-06-17,2022-07-01,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2022-07-22,2022-08-12,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Primary dental caries (disorder),2022-08-12,2022-08-12,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2022-09-23,2022-10-07,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2022-10-21,2022-12-09,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Primary dental caries (disorder),2023-04-07,2023-04-07,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2023-07-21,2023-08-04,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Fracture of bone (disorder),2023-08-25,2023-12-08,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Fracture of forearm (disorder),2023-08-25,2023-12-08,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Osteoporotic fracture of bone (disorder),2023-08-25,2023-12-08,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2023-10-13,2023-10-13,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Chronic kidney disease stage 3 (disorder),2023-11-10,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Proteinuria due to type 2 diabetes mellitus (disorder),2023-11-10,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2023-11-10,2023-12-01,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Primary dental caries (disorder),2023-12-01,2023-12-01,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2024-07-12,2024-07-26,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2025-05-30,2025-06-20,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2025-07-25,2025-07-25,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2025-10-31,2025-11-14,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2025-11-14,2025-11-14,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2026-01-02,2026-01-16,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Overdose (disorder),2026-03-13,2026-03-13,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2026-03-27,2026-05-08,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingival disease (disorder),2026-05-08,2026-05-08,resolved
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Chronic kidney disease stage 4 (disorder),2026-07-03,,active
+Kendrick479_Oberbrunner298_007a32fb-33a3-6f75-2161-15a2ea6ed2bf,Gingivitis (disorder),2026-09-11,,active
+Kent912_Hudson301_f5d96290-3260-c984-2a87-3b03dfd52a9d,Loss of teeth (disorder),2009-01-19,,active
+Kent912_Hudson301_f5d96290-3260-c984-2a87-3b03dfd52a9d,Concussion injury of brain (disorder),2019-01-20,2019-03-02,resolved
+Kent912_Hudson301_f5d96290-3260-c984-2a87-3b03dfd52a9d,Concussion with no loss of consciousness (disorder),2019-01-20,2019-03-02,resolved
+Kent912_Hudson301_f5d96290-3260-c984-2a87-3b03dfd52a9d,Injury of neck (disorder),2020-01-19,2020-03-25,resolved
+Kent912_Hudson301_f5d96290-3260-c984-2a87-3b03dfd52a9d,Whiplash injury to neck (disorder),2020-01-19,2020-03-25,resolved
+Kent912_Hudson301_f5d96290-3260-c984-2a87-3b03dfd52a9d,Acute bronchitis (disorder),2025-01-26,2025-02-12,resolved
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Acute viral pharyngitis (disorder),2016-11-21,2016-12-01,resolved
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Acute viral pharyngitis (disorder),2018-05-28,2018-06-05,resolved
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Acute bronchitis (disorder),2018-09-28,2018-10-11,resolved
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Perennial allergic rhinitis with seasonal variation (disorder),2018-10-19,,active
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Otitis media (disorder),2019-01-07,2020-01-24,resolved
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Acute allergic reaction (disorder),2020-08-30,2020-08-31,resolved
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Acute viral pharyngitis (disorder),2025-08-29,2025-09-11,resolved
+Kindra525_Konopelski743_9e4e42fd-f967-3b5a-5134-8402b1f12b6c,Gingivitis (disorder),2026-02-27,2026-03-06,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Chronic intractable migraine without aura (disorder),1990-03-25,,active
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Impacted molars (disorder),1990-06-26,,active
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Dependent drug abuse (disorder),1998-08-19,,active
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Overdose (disorder),2018-10-31,2018-11-01,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Fracture of bone (disorder),2018-12-26,2019-03-02,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Fracture of forearm (disorder),2018-12-26,2019-03-02,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Viral sinusitis (disorder),2020-05-27,2020-06-10,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Gingival disease (disorder),2020-06-03,2020-06-03,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Primary dental caries (disorder),2020-06-03,2020-06-03,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Pulmonary emphysema (disorder),2020-10-28,,active
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Gingivitis (disorder),2020-10-28,2020-11-11,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Viral sinusitis (disorder),2021-09-01,2021-09-09,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Gingivitis (disorder),2021-11-03,2021-11-17,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Gingival disease (disorder),2021-11-17,2021-11-17,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Infection of tooth (disorder),2022-11-23,2022-11-23,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Infection of tooth (disorder),2023-12-06,2023-12-06,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Loss of teeth (disorder),2023-12-13,,active
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Acute bronchitis (disorder),2024-12-02,2024-12-13,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Gingivitis (disorder),2025-11-26,2025-12-10,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Primary dental caries (disorder),2025-12-10,2025-12-10,resolved
+Kyle55_Waelchi213_b76d5c14-f629-cf57-5d6d-93fb3ab63dce,Overdose (disorder),2026-02-19,2026-02-20,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Acute viral pharyngitis (disorder),2019-03-30,2019-04-10,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Acute bronchitis (disorder),2020-02-04,2020-02-24,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Viral sinusitis (disorder),2021-05-15,2021-06-01,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Gingivitis (disorder),2021-08-29,2021-09-12,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Fracture of bone (disorder),2024-03-28,2024-05-27,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Fracture subluxation of wrist (disorder),2024-03-28,2024-05-27,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Acute infective cystitis (disorder),2024-05-18,2024-05-19,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Infection of tooth (disorder),2024-09-15,2024-09-15,resolved
+Lashay246_Kling921_34c7949d-7d70-2d32-dbe4-129496a384ea,Viral sinusitis (disorder),2025-07-17,2025-07-27,resolved
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Recurrent urinary tract infection (disorder),1995-11-24,,active
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Primary fibromyalgia syndrome (disorder),2014-08-08,,active
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Gingivitis (disorder),2022-09-02,2022-09-16,resolved
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Injury of neck (disorder),2023-02-05,2023-03-20,resolved
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Whiplash injury to neck (disorder),2023-02-05,2023-03-20,resolved
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Gingivitis (disorder),2024-09-06,2024-09-20,resolved
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Acute viral pharyngitis (disorder),2024-09-27,2024-10-09,resolved
+Latosha740_Harber290_73982c5e-bf00-2a88-6a08-26a3030898c8,Gingivitis (disorder),2026-09-11,2026-09-25,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Essential hypertension (disorder),2013-05-19,,active
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Viral sinusitis (disorder),2017-09-15,2017-10-03,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Gingivitis (disorder),2020-06-28,2020-07-12,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Viral sinusitis (disorder),2020-08-24,2020-09-06,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Injury of neck (disorder),2021-04-12,2021-05-22,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Whiplash injury to neck (disorder),2021-04-12,2021-05-22,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Acute bronchitis (disorder),2023-09-28,2023-10-06,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Gingivitis (disorder),2024-07-21,2024-08-04,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Primary dental caries (disorder),2024-08-04,2024-08-04,resolved
+Lavina533_Socorro465_Cruickshank494_5558c6b0-d8ba-1121-802b-45b77a0b2215,Acute bronchitis (disorder),2025-11-09,2025-11-29,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Sprain of ankle (disorder),2016-09-26,2016-11-01,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Gingivitis (disorder),2017-08-25,2017-09-08,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Gingival disease (disorder),2017-09-08,2017-09-08,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Pyelonephritis (disorder),2018-02-13,2018-02-14,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Gingivitis (disorder),2018-08-31,2018-09-14,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Laceration - injury (disorder),2019-08-04,2019-08-23,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Laceration of hand (disorder),2019-08-04,2019-08-23,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Acute viral pharyngitis (disorder),2020-09-24,2020-10-04,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2021-07-14,2021-07-29,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Pre-eclampsia (disorder),2023-11-03,2023-12-29,resolved
+Lelah386_Hyatt152_279ca2a4-c2d9-4045-83de-f604ed069fe8,Streptococcal sore throat (disorder),2024-06-20,2024-07-02,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Chronic sinusitis (disorder),1981-08-08,,active
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Gingivitis (disorder),1988-02-13,1988-02-27,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Primary dental caries (disorder),1988-02-27,1988-02-27,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Gingivitis (disorder),1992-03-07,1992-03-21,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Fracture of bone (disorder),1993-04-07,1993-06-28,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Fracture of forearm (disorder),1993-04-07,1993-06-28,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Acute bronchitis (disorder),1994-07-29,1994-08-13,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Acute viral pharyngitis (disorder),1994-11-08,1994-11-18,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Concussion injury of brain (disorder),1995-07-16,1995-09-15,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Concussion with loss of consciousness (disorder),1995-07-16,1995-09-15,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Acute viral pharyngitis (disorder),1995-08-20,1995-08-29,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Acute viral pharyngitis (disorder),1996-04-29,1996-05-07,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Acute viral pharyngitis (disorder),1997-08-04,1997-08-13,resolved
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Sepsis (disorder),1997-10-04,,active
+Leland44_Reinger292_6c669866-7041-1992-2938-40ff2a4520f7,Septic shock (disorder),1997-10-04,,active
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Anemia (disorder),2016-02-28,,active
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Viral sinusitis (disorder),2018-12-24,2019-01-06,resolved
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Viral sinusitis (disorder),2021-12-31,2022-01-16,resolved
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Gingivitis (disorder),2022-04-03,2022-04-17,resolved
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Gingivitis (disorder),2023-04-09,2023-04-23,resolved
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Gingivitis (disorder),2024-04-14,2024-04-28,resolved
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Gingivitis (disorder),2025-04-20,2025-05-04,resolved
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Gingival disease (disorder),2025-05-04,2025-05-04,resolved
+Lenard338_Hessel84_7dd14aa8-7b82-4f0f-41a6-462265709b20,Viral sinusitis (disorder),2026-08-29,2026-09-11,resolved
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Sepsis (disorder),2006-05-31,,active
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Gingivitis (disorder),2007-10-19,2007-11-02,resolved
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Gingival disease (disorder),2007-11-02,2007-11-02,resolved
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Gingivitis (disorder),2009-10-30,2009-11-13,resolved
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Viral sinusitis (disorder),2010-11-19,2010-12-13,resolved
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Pulmonary emphysema (disorder),2013-10-25,,active
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Anemia (disorder),2013-10-25,,active
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Gingivitis (disorder),2013-10-25,2013-11-08,resolved
+Lenita591_Amelia635_Romaguera67_302b2f8f-6bb2-b242-d64d-ad27d469979f,Gingivitis (disorder),2015-12-04,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Anemia (disorder),1974-12-08,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Sepsis (disorder),1977-07-12,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Septic shock (disorder),1977-07-12,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Acute respiratory distress syndrome (disorder),1977-07-12,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Familial Alzheimer's disease of early onset (disorder),2008-08-10,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Gingivitis (disorder),2010-11-21,2010-12-05,resolved
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Acute bronchitis (disorder),2011-06-04,2011-06-13,resolved
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Gingivitis (disorder),2011-06-12,2011-06-26,resolved
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Infection of tooth (disorder),2011-12-11,2011-12-11,resolved
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Gingivitis (disorder),2012-12-02,2012-12-16,resolved
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Viral sinusitis (disorder),2013-11-03,2013-11-12,resolved
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Gingivitis (disorder),2015-12-20,2016-01-03,resolved
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Neoplasm of prostate (disorder),2019-01-06,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Carcinoma in situ of prostate (disorder),2019-01-06,,active
+Lindsey52_Cartwright189_2f3c8454-b3b8-bab6-0b8a-7c2da8723a62,Gingivitis (disorder),2019-01-06,2019-01-20,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Perennial allergic rhinitis (disorder),2011-08-18,,active
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Childhood asthma (disorder),2011-12-19,,active
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Gingivitis (disorder),2017-02-14,2017-02-22,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Viral sinusitis (disorder),2017-02-28,2017-03-15,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Gingivitis (disorder),2019-02-05,2019-02-13,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Gingival disease (disorder),2019-02-13,2019-02-13,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Primary dental caries (disorder),2019-02-13,2019-02-13,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Gingivitis (disorder),2019-03-26,2019-04-10,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Acute bronchitis (disorder),2019-04-02,2019-04-20,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Streptococcal sore throat (disorder),2019-08-07,2019-08-14,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-10-21,2020-11-21,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Child attention deficit disorder (disorder),2021-06-20,2022-10-29,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Gingivitis (disorder),2024-03-05,2024-03-20,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Gingival disease (disorder),2024-03-20,2024-03-20,resolved
+Lonny638_Beier427_337f0745-95ef-af89-6f88-e00fe0e29b6d,Primary dental caries (disorder),2026-04-01,2026-04-01,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Viral sinusitis (disorder),2016-10-20,2016-11-07,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Acute infective cystitis (disorder),2016-12-03,2016-12-04,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Acute viral pharyngitis (disorder),2018-09-10,2018-09-23,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Fracture of bone (disorder),2019-08-07,2019-10-22,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Fracture of rib (disorder),2019-08-07,2019-10-22,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Gingivitis (disorder),2020-01-25,2020-02-08,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Gingival disease (disorder),2020-02-08,2020-02-08,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Sinusitis (disorder),2022-01-19,2022-03-29,resolved
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Chronic sinusitis (disorder),2022-03-01,,active
+Lourdes258_McClure239_1c51694e-3b0d-eb59-c08c-62414aeba810,Viral sinusitis (disorder),2023-01-03,2023-01-24,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Sprain of ankle (disorder),2017-02-27,2017-03-13,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Viral sinusitis (disorder),2017-08-10,2017-08-20,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Streptococcal sore throat (disorder),2018-03-17,2018-03-28,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Acute bronchitis (disorder),2019-06-26,2019-07-07,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Sprain of wrist (disorder),2020-02-01,2020-02-27,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Injury of neck (disorder),2021-01-28,2021-03-22,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Whiplash injury to neck (disorder),2021-01-28,2021-03-22,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Acute bronchitis (disorder),2021-08-21,2021-08-28,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Viral sinusitis (disorder),2021-10-03,2021-10-19,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Gingivitis (disorder),2024-01-20,2024-01-27,resolved
+Lowell343_Rohan584_a67f6014-54d1-b630-8d51-954d2d26bd42,Adolescent idiopathic scoliosis (disorder),2026-01-15,,active
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Concussion injury of brain (disorder),2018-04-13,2018-07-05,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Gingival disease (disorder),2019-03-10,2019-03-10,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-08-17,2020-08-30,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Pneumonia (disorder),2020-08-17,2020-08-30,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Hypoxemia (disorder),2020-08-17,2020-08-30,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Sepsis caused by virus (disorder),2020-08-17,2020-08-30,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Acute pulmonary embolism (disorder),2020-08-27,2020-08-30,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Primary dental caries (disorder),2024-04-14,2024-04-14,resolved
+Lucio648_Volkman526_96273e26-32fc-3db7-aacb-bb44801d336e,Gingival disease (disorder),2026-04-26,2026-04-26,resolved
+Lucius907_Monahan736_b6bb2907-5188-8689-8b76-341664e59cb2,Acute viral pharyngitis (disorder),2019-02-09,2019-02-21,resolved
+Lucius907_Monahan736_b6bb2907-5188-8689-8b76-341664e59cb2,Viral sinusitis (disorder),2019-08-26,2019-09-03,resolved
+Lucius907_Monahan736_b6bb2907-5188-8689-8b76-341664e59cb2,Acute viral pharyngitis (disorder),2020-07-30,2020-08-08,resolved
+Lucius907_Monahan736_b6bb2907-5188-8689-8b76-341664e59cb2,Fracture of bone (disorder),2021-02-04,2021-03-28,resolved
+Lucius907_Monahan736_b6bb2907-5188-8689-8b76-341664e59cb2,Fracture of clavicle (disorder),2021-02-04,2021-03-28,resolved
+Lucius907_Monahan736_b6bb2907-5188-8689-8b76-341664e59cb2,Gingivitis (disorder),2024-06-06,2024-06-13,resolved
+Lucius907_Monahan736_b6bb2907-5188-8689-8b76-341664e59cb2,Gingivitis (disorder),2026-06-18,2026-07-02,resolved
+Lyndon118_Bechtelar572_13cca394-008d-dcfa-eac3-fc130583f321,Acute viral pharyngitis (disorder),2017-06-24,2017-07-07,resolved
+Lyndon118_Bechtelar572_13cca394-008d-dcfa-eac3-fc130583f321,Sprain of wrist (disorder),2019-03-11,2019-04-21,resolved
+Lyndon118_Bechtelar572_13cca394-008d-dcfa-eac3-fc130583f321,Primary dental caries (disorder),2019-04-28,2019-04-28,resolved
+Lyndon118_Bechtelar572_13cca394-008d-dcfa-eac3-fc130583f321,Gingivitis (disorder),2022-05-08,2022-05-15,resolved
+Lyndon118_Bechtelar572_13cca394-008d-dcfa-eac3-fc130583f321,Acute viral pharyngitis (disorder),2022-11-10,2022-11-23,resolved
+Lyndon118_Bechtelar572_13cca394-008d-dcfa-eac3-fc130583f321,Primary dental caries (disorder),2025-06-08,2025-06-08,resolved
+Lyndon118_Bechtelar572_13cca394-008d-dcfa-eac3-fc130583f321,Viral sinusitis (disorder),2026-03-08,2026-03-25,resolved
+Marion502_Medhurst46_2989e622-947b-9319-2f76-95742872f1ae,Streptococcal sore throat (disorder),2025-02-23,2025-03-08,resolved
+Marion502_Medhurst46_2989e622-947b-9319-2f76-95742872f1ae,Fracture of bone (disorder),2025-07-20,2025-10-16,resolved
+Marion502_Medhurst46_2989e622-947b-9319-2f76-95742872f1ae,Fracture of clavicle (disorder),2025-07-20,2025-10-16,resolved
+Marion502_Medhurst46_2989e622-947b-9319-2f76-95742872f1ae,Otitis media (disorder),2026-05-15,2026-07-21,resolved
+Marion502_Medhurst46_2989e622-947b-9319-2f76-95742872f1ae,Acute bronchitis (disorder),2026-07-28,2026-08-16,resolved
+Marita360_Staci390_Kshlerin58_dbfd10e4-5882-fd43-1dfe-6b95d943bd1b,Acute infective cystitis (disorder),2018-11-26,2018-11-27,resolved
+Marita360_Staci390_Kshlerin58_dbfd10e4-5882-fd43-1dfe-6b95d943bd1b,Acute viral pharyngitis (disorder),2023-10-30,2023-11-07,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Sleep disorder (disorder),2006-02-08,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Metabolic syndrome X (disorder),2006-02-24,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Sleep apnea (disorder),2006-03-24,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Essential hypertension (disorder),2008-02-29,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Anemia (disorder),2008-02-29,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Diabetes mellitus type 2 (disorder),2011-03-18,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Hyperglycemia (disorder),2012-03-23,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Hypertriglyceridemia (disorder),2012-03-23,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Concussion injury of brain (disorder),2017-03-04,2017-05-13,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Concussion with no loss of consciousness (disorder),2017-03-04,2017-05-13,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Gingivitis (disorder),2018-04-27,2018-05-11,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Gingival disease (disorder),2018-05-11,2018-05-11,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Gingivitis (disorder),2020-05-08,2020-05-22,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Acute viral pharyngitis (disorder),2020-05-15,2020-05-26,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Ischemic heart disease (disorder),2021-05-14,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Gingivitis (disorder),2021-05-14,2021-06-04,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Myocardial infarction (disorder),2024-04-14,2024-04-14,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Acute non-ST segment elevation myocardial infarction (disorder),2024-04-14,,active
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Viral sinusitis (disorder),2024-04-29,2024-05-13,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Gingivitis (disorder),2024-05-31,2024-06-14,resolved
+Marlin805_Nienow652_0c1b260c-7f32-fdd5-15dd-1160caf24c2b,Acute viral pharyngitis (disorder),2024-10-05,2024-10-12,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Perennial allergic rhinitis with seasonal variation (disorder),2014-11-08,,active
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Streptococcal sore throat (disorder),2017-03-20,2017-04-03,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Acute bronchitis (disorder),2019-02-08,2019-02-19,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Viral sinusitis (disorder),2020-06-08,2020-06-27,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Gingivitis (disorder),2020-09-30,2020-10-07,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Viral sinusitis (disorder),2021-04-14,2021-05-11,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Gingivitis (disorder),2021-10-06,2021-10-13,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Viral sinusitis (disorder),2022-02-23,2022-03-21,resolved
+Marlys304_Cronin387_16f7e7d8-91f7-81f6-505f-5f94988e8437,Viral sinusitis (disorder),2025-01-10,2025-01-20,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Anemia (disorder),1993-06-28,,active
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Gingivitis (disorder),2017-05-30,2017-06-13,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Acute viral pharyngitis (disorder),2019-12-23,2020-01-05,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Viral sinusitis (disorder),2022-05-01,2022-05-24,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Gingivitis (disorder),2023-07-04,2023-07-18,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Osteoarthritis of knee (disorder),2023-10-23,,active
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Gingivitis (disorder),2024-07-09,2024-07-23,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Infection of tooth (disorder),2024-07-23,2024-07-23,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Primary dental caries (disorder),2024-07-23,2024-07-23,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Loss of teeth (disorder),2024-07-29,,active
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Tongue tie (disorder),2024-07-29,2024-08-12,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Resorption of alveolar process due to dental trauma (disorder),2024-07-29,2024-08-12,resolved
+Matthew562_Daniel959_10f38e84-4e7a-02a0-5500-ba5a7611b583,Viral sinusitis (disorder),2024-11-17,2024-12-14,resolved
+Maximina916_Jackelyn13_Schiller186_166840bf-b4f9-b8f0-d1ab-010f8cba3f31,Anemia (disorder),2015-07-02,,active
+Maximina916_Jackelyn13_Schiller186_166840bf-b4f9-b8f0-d1ab-010f8cba3f31,Acute viral pharyngitis (disorder),2021-01-02,2021-01-12,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Essential hypertension (disorder),1948-02-08,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Disorder of kidney due to diabetes mellitus (disorder),1955-03-20,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Microalbuminuria due to type 2 diabetes mellitus (disorder),1956-01-01,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Proteinuria due to type 2 diabetes mellitus (disorder),1961-03-05,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Loss of teeth (disorder),1965-01-31,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Sleep disorder (disorder),1966-11-26,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Sleep apnea (disorder),1966-12-25,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Ischemic heart disease (disorder),1984-09-09,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Osteoporosis (disorder),2006-01-08,,active
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Gingivitis (disorder),2017-03-12,2017-03-26,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Gingivitis (disorder),2018-03-18,2018-04-01,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Viral sinusitis (disorder),2019-07-05,2019-07-24,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Gingivitis (disorder),2020-03-29,2020-04-12,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Gingival disease (disorder),2020-04-12,2020-04-12,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Primary dental caries (disorder),2020-04-12,2020-04-12,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Concussion injury of brain (disorder),2021-08-10,2021-09-14,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Concussion with no loss of consciousness (disorder),2021-08-10,2021-09-14,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Gingivitis (disorder),2022-04-10,2022-04-24,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Gingivitis (disorder),2023-04-16,2023-04-30,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Acute viral pharyngitis (disorder),2024-03-07,2024-03-16,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Acute bacterial sinusitis (disorder),2024-06-06,2024-07-04,resolved
+Miranda712_Dixie159_Jacobs452_a88d8253-7b27-4746-bc0f-c41e671b6237,Sprain of wrist (disorder),2025-07-23,2025-08-14,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Acute viral pharyngitis (disorder),2017-07-09,2017-07-22,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Viral sinusitis (disorder),2017-10-18,2017-10-31,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Viral sinusitis (disorder),2021-04-18,2021-05-08,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Viral sinusitis (disorder),2023-12-01,2023-12-26,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Gingivitis (disorder),2024-07-03,2024-07-17,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Gingival disease (disorder),2024-07-17,2024-07-17,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Primary dental caries (disorder),2024-07-17,2024-07-17,resolved
+Mitchell808_Olson653_868f2c18-1210-e4f6-d471-4b0b2e370225,Acute bronchitis (disorder),2025-02-22,2025-03-04,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Anemia (disorder),1984-09-14,,active
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Gingival disease (disorder),1992-11-13,1992-11-13,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Acute bronchitis (disorder),1993-04-15,1993-05-02,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Gingival disease (disorder),1995-12-01,1995-12-01,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Primary dental caries (disorder),1995-12-01,1995-12-01,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Acute viral pharyngitis (disorder),1996-09-20,1996-09-28,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Gingivitis (disorder),1996-11-22,1996-12-13,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Neoplasm of prostate (disorder),1996-11-29,,active
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Carcinoma in situ of prostate (disorder),1996-11-29,,active
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Gingival disease (disorder),1996-12-13,1996-12-13,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Metastatic malignant neoplasm to prostate (disorder),1997-02-27,,active
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Streptococcal sore throat (disorder),1998-02-22,1998-03-02,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Posttraumatic stress disorder (disorder),1999-01-01,2000-03-23,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Acute bronchitis (disorder),1999-09-07,1999-09-15,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Gingival disease (disorder),2000-12-29,2000-12-29,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Fracture of bone (disorder),2001-06-25,2001-08-12,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Fracture subluxation of wrist (disorder),2001-06-25,2001-08-12,resolved
+Napoleon578_Gottlieb798_0f24196d-4714-8a74-e3f7-19010527f7bb,Hyperlipidemia (disorder),2001-12-21,,active
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Gingivitis (disorder),2018-05-11,2018-05-26,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Laceration - injury (disorder),2019-09-25,2019-10-12,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Facial laceration (disorder),2019-09-25,2019-10-12,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Acute viral pharyngitis (disorder),2020-05-29,2020-06-10,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Acute viral pharyngitis (disorder),2022-05-03,2022-05-12,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Gingivitis (disorder),2022-06-03,2022-06-18,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Sprain of ankle (disorder),2023-10-04,2023-11-13,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Acute viral pharyngitis (disorder),2024-08-03,2024-08-14,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Fracture of bone (disorder),2025-10-09,2025-11-22,resolved
+Nathaniel596_Olson653_93547944-a253-d0bb-fffe-68a8adee95da,Fracture of clavicle (disorder),2025-10-09,2025-11-22,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Anemia (disorder),2014-01-10,,active
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Gingivitis (disorder),2017-01-13,2017-01-27,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Concussion injury of brain (disorder),2017-08-09,2017-10-19,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Concussion with no loss of consciousness (disorder),2017-08-09,2017-10-19,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Seizure disorder (disorder),2020-02-07,,active
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2021-02-09,2021-02-27,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Acute viral pharyngitis (disorder),2021-09-18,2021-09-28,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Primary dental caries (disorder),2023-02-03,2023-02-03,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Acute bronchitis (disorder),2023-06-07,2023-06-24,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Viral sinusitis (disorder),2024-10-09,2024-10-29,resolved
+Nisha529_Mireille557_Greenfelder433_97dec775-c4a9-6bb3-f645-63542e24ad07,Gingivitis (disorder),2025-11-07,2025-11-21,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Gingivitis (disorder),2019-03-16,2019-03-30,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Infection of tooth (disorder),2020-04-04,2020-04-04,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Loss of teeth (disorder),2020-04-11,,active
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Torus palatinus (disorder),2020-04-11,2020-04-21,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Hyperlipidemia (disorder),2022-04-02,,active
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Eclampsia in pregnancy (disorder),2022-10-08,2022-10-22,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Concussion injury of brain (disorder),2023-09-19,2023-11-25,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Concussion with no loss of consciousness (disorder),2023-09-19,2023-11-25,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Acute viral pharyngitis (disorder),2025-04-02,2025-04-12,resolved
+Noriko180_Yolonda722_Ullrich385_9345aa1d-acef-eea9-4904-f19b56249e76,Malignant neoplasm of breast (disorder),2026-01-14,,active
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Otitis media (disorder),2017-03-04,2017-07-08,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Viral sinusitis (disorder),2017-09-19,2017-10-09,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Primary dental caries (disorder),2018-07-21,2018-07-21,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Viral sinusitis (disorder),2020-11-30,2020-12-07,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Laceration - injury (disorder),2022-03-06,2022-04-01,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Laceration of hand (disorder),2022-03-06,2022-04-01,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Acute viral pharyngitis (disorder),2022-05-21,2022-05-31,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Viral sinusitis (disorder),2023-08-29,2023-09-20,resolved
+Ouida808_Stroman228_4b286419-9530-1f2f-b9f9-638a40f29024,Gingivitis (disorder),2026-08-29,2026-09-12,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Hyperlipidemia (disorder),2009-06-14,,active
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Gingivitis (disorder),2017-03-27,2017-04-17,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Acute bronchitis (disorder),2017-04-09,2017-04-28,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Viral sinusitis (disorder),2017-06-08,2017-07-03,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Gingivitis (disorder),2017-07-31,2017-08-14,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Sprain of ankle (disorder),2018-03-19,2018-04-14,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Acute infective cystitis (disorder),2018-09-23,2018-09-25,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Acute viral pharyngitis (disorder),2019-05-09,2019-05-18,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Laceration - injury (disorder),2021-08-01,2021-08-18,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Laceration of thigh (disorder),2021-08-01,2021-08-18,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Gingivitis (disorder),2023-09-04,2023-09-18,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Acute bronchitis (disorder),2026-05-17,2026-05-28,resolved
+Peter292_Bosco882_4bfbd4ee-8869-b526-ecd0-f889f83e0d7c,Gingival disease (disorder),2026-10-05,2026-10-05,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Viral sinusitis (disorder),2016-11-07,2016-11-25,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Acute viral pharyngitis (disorder),2017-05-11,2017-05-24,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Gingivitis (disorder),2017-11-26,2017-12-10,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Gingival disease (disorder),2017-12-10,2017-12-10,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Primary dental caries (disorder),2017-12-10,2017-12-10,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Laceration - injury (disorder),2019-06-08,2019-07-01,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Laceration of foot (disorder),2019-06-08,2019-07-01,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Viral sinusitis (disorder),2020-04-16,2020-04-29,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Gingivitis (disorder),2020-12-13,2020-12-27,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Sinusitis (disorder),2022-05-25,2022-06-09,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Acute viral pharyngitis (disorder),2022-10-27,2022-11-10,resolved
+Precious140_Corwin846_89316910-0675-d580-ea7d-2b516045ad3e,Viral sinusitis (disorder),2025-10-29,2025-11-24,resolved
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Diabetes mellitus type 2 (disorder),2015-03-27,,active
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Essential hypertension (disorder),2018-01-12,,active
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Hypertriglyceridemia (disorder),2018-01-12,,active
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Metabolic syndrome X (disorder),2019-01-18,,active
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Acute bronchitis (disorder),2019-11-29,2019-12-06,resolved
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Hyperglycemia (disorder),2022-03-25,,active
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Viral sinusitis (disorder),2022-04-01,2022-04-16,resolved
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Gingival disease (disorder),2022-04-08,2022-04-08,resolved
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Streptococcal sore throat (disorder),2022-06-16,2022-06-26,resolved
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Gingivitis (disorder),2023-06-23,2023-07-07,resolved
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Viral sinusitis (disorder),2023-06-30,2023-07-17,resolved
+Raquel318_Sommer719_Greenholt190_37cd4685-45ad-8602-7fff-2b04af9bc008,Gingivitis (disorder),2025-02-21,2025-03-07,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Viral sinusitis (disorder),2003-05-17,2003-06-03,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Essential hypertension (disorder),2004-05-22,,active
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Viral sinusitis (disorder),2004-06-06,2004-06-16,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Chronic congestive heart failure (disorder),2005-05-13,,active
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Gingivitis (disorder),2005-05-28,2005-06-11,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Viral sinusitis (disorder),2006-03-13,2006-04-07,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Shock (disorder),2007-05-17,,active
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Gingivitis (disorder),2007-06-09,2007-06-23,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Gingivitis (disorder),2011-07-02,2011-07-16,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Sprain of wrist (disorder),2011-07-28,2011-08-24,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Osteoarthritis of knee (disorder),2011-09-18,,active
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Viral sinusitis (disorder),2012-02-14,2012-02-27,resolved
+Raúl937_Quintana711_bbd027f2-6ec0-ef30-7696-c8a6afb66e44,Gingivitis (disorder),2012-07-07,2012-07-21,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Gingivitis (disorder),2009-04-06,2009-04-13,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Gingival disease (disorder),2009-04-13,2009-04-13,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Gingivitis (disorder),2013-04-29,2013-05-13,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Primary dental caries (disorder),2013-05-13,2013-05-13,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Gingivitis (disorder),2014-05-05,2014-05-19,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Primary dental caries (disorder),2014-05-19,2014-05-19,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Gingivitis (disorder),2015-05-11,2015-05-25,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Gingival disease (disorder),2015-05-25,2015-05-25,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Primary dental caries (disorder),2015-05-25,2015-05-25,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Seizure disorder (disorder),2015-11-16,,active
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Fracture of bone (disorder),2017-03-17,2017-06-24,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Fracture of forearm (disorder),2017-03-17,2017-06-24,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Gingivitis (disorder),2018-05-28,2018-06-11,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Primary dental caries (disorder),2018-06-11,2018-06-11,resolved
+Refugio197_Dare640_2571ad10-0831-bf71-4731-6f7c298b20c7,Sprain of ankle (disorder),2018-06-26,2018-07-28,resolved
+Reginald96_Windler79_ae3546fc-4eff-79b7-276e-33c7b1beb735,Acute viral pharyngitis (disorder),2019-12-02,2019-12-13,resolved
+Reginald96_Windler79_ae3546fc-4eff-79b7-276e-33c7b1beb735,Otitis media (disorder),2020-09-05,2021-06-03,resolved
+Reginald96_Windler79_ae3546fc-4eff-79b7-276e-33c7b1beb735,Viral sinusitis (disorder),2021-08-16,2021-09-03,resolved
+Reginald96_Windler79_ae3546fc-4eff-79b7-276e-33c7b1beb735,Acute bronchitis (disorder),2022-01-15,2022-01-25,resolved
+Reginald96_Windler79_ae3546fc-4eff-79b7-276e-33c7b1beb735,Gingivitis (disorder),2026-06-18,2026-07-02,resolved
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Sleep disorder (disorder),2001-02-23,,active
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Sleep apnea (disorder),2001-03-18,,active
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Myocardial infarction (disorder),2018-02-04,2018-02-04,resolved
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Acute ST segment elevation myocardial infarction (disorder),2018-02-04,,active
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Viral sinusitis (disorder),2018-02-04,2018-02-11,resolved
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Gingivitis (disorder),2019-03-16,2019-03-30,resolved
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Gingival disease (disorder),2019-03-30,2019-03-30,resolved
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Impacted molars (disorder),2020-04-11,,active
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-10-07,2020-11-09,resolved
+Rodrigo242_Miranda712_ea20ca42-d23e-df84-54aa-4e011c777025,Gingivitis (disorder),2026-04-25,2026-05-09,resolved
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Anemia (disorder),2005-04-24,,active
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Essential hypertension (disorder),2016-02-21,,active
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Metabolic syndrome X (disorder),2017-02-26,,active
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Gingivitis (disorder),2017-02-26,2017-03-12,resolved
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Gingival disease (disorder),2017-03-12,2017-03-12,resolved
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Primary dental caries (disorder),2017-03-12,2017-03-12,resolved
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Viral sinusitis (disorder),2020-11-05,2020-11-22,resolved
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Myocardial infarction (disorder),2021-10-01,2021-10-12,resolved
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Acute non-ST segment elevation myocardial infarction (disorder),2021-10-01,,active
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Hyperlipidemia (disorder),2022-03-27,,active
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Gingivitis (disorder),2023-04-02,2023-04-16,resolved
+Rozanne215_Malvina930_Heaney114_be9df765-800a-5061-e0ff-34f9d0f79a95,Polyp of colon (disorder),2024-02-11,2025-02-19,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Gingivitis (disorder),2019-01-24,2019-02-01,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Gingivitis (disorder),2020-01-30,2020-02-07,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-12-02,2021-01-01,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Gingivitis (disorder),2021-02-04,2021-02-12,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Viral sinusitis (disorder),2021-05-11,2021-06-01,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Gingivitis (disorder),2022-02-10,2022-02-18,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Infection of tooth (disorder),2022-02-18,2022-02-18,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Alveolitis of jaw (disorder),2022-02-23,2022-02-23,resolved
+Salina386_Rippin620_c4ff5772-cb90-f9bd-9f85-4542e0ebf5fd,Primary dental caries (disorder),2024-03-08,2024-03-08,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Gingivitis (disorder),2017-07-14,2017-07-29,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Gingivitis (disorder),2019-07-26,2019-08-10,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Injury of neck (disorder),2021-04-03,2021-07-11,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Whiplash injury to neck (disorder),2021-04-03,2021-07-11,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Viral sinusitis (disorder),2021-06-11,2021-06-29,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Gingivitis (disorder),2022-08-12,2022-08-27,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Gingival disease (disorder),2022-08-27,2022-08-27,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Viral sinusitis (disorder),2023-11-24,2023-12-15,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Sprain of wrist (disorder),2024-08-09,2024-08-26,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Gingivitis (disorder),2025-08-30,2025-09-13,resolved
+Sarita454_Corinna386_Pfannerstill264_ad7717a7-c19a-ec34-0d65-121bc7b9335b,Osteoporosis (disorder),2026-09-04,,active
+Scot349_Abbott774_574b44d2-2cda-01bd-6c1e-c5f80869b83e,Otitis media (disorder),2024-10-20,2024-11-14,resolved
+Scot349_Abbott774_574b44d2-2cda-01bd-6c1e-c5f80869b83e,Otitis media (disorder),2025-11-09,,active
+Scot349_Abbott774_574b44d2-2cda-01bd-6c1e-c5f80869b83e,Acute bacterial sinusitis (disorder),2026-09-19,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Chronic sinusitis (disorder),1975-07-16,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Impacted molars (disorder),1990-09-08,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Chronic intractable migraine without aura (disorder),1991-06-03,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Dependent drug abuse (disorder),1998-08-27,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Essential hypertension (disorder),1999-09-04,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Metabolic syndrome X (disorder),2002-09-21,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,"Leukemia, disease (disorder)",2014-08-18,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Overdose (disorder),2018-05-12,2018-05-12,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Viral sinusitis (disorder),2019-06-08,2019-06-22,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Osteoporosis (disorder),2020-01-25,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Laceration - injury (disorder),2020-06-01,2020-06-19,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Facial laceration (disorder),2020-06-01,2020-06-19,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Overdose (disorder),2021-03-07,2021-03-08,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Acute bacterial sinusitis (disorder),2021-10-18,2021-11-30,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Gingivitis (disorder),2022-02-05,2022-02-19,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Overdose (disorder),2022-12-27,2022-12-27,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Ischemic heart disease (disorder),2024-02-17,,active
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Injury of knee (disorder),2024-08-27,2024-12-07,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Injury of medial collateral ligament of knee (disorder),2024-08-27,2024-12-07,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Overdose (disorder),2024-12-21,2024-12-21,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Gingivitis (disorder),2026-02-28,2026-03-14,resolved
+Shalanda398_West559_c0f85a14-440d-79b8-1a24-9792cf230f87,Overdose (disorder),2026-05-23,2026-05-23,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Asthma (disorder),1986-05-31,,active
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Impacted molars (disorder),1990-02-05,,active
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Chronic intractable migraine without aura (disorder),1990-03-14,,active
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Dependent drug abuse (disorder),1990-10-05,,active
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Loss of teeth (disorder),2003-11-08,,active
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Osteoarthritis of hip (disorder),2014-01-07,,active
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Transformed migraine (disorder),2014-02-03,,active
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Viral sinusitis (disorder),2016-12-31,2017-01-27,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Overdose (disorder),2019-07-16,2019-07-16,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Gingivitis (disorder),2019-12-07,2019-12-21,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Overdose (disorder),2020-03-31,2020-04-01,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Overdose (disorder),2020-06-24,2020-06-25,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Overdose (disorder),2021-04-22,2021-04-22,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Gingivitis (disorder),2022-12-24,2023-01-07,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Laceration - injury (disorder),2023-07-13,2023-07-27,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Laceration of hand (disorder),2023-07-13,2023-07-27,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Viral sinusitis (disorder),2024-04-06,2024-04-28,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Viral sinusitis (disorder),2024-12-02,2024-12-12,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Gingivitis (disorder),2025-01-04,2025-01-18,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Primary dental caries (disorder),2025-01-18,2025-01-18,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Acute bacterial sinusitis (disorder),2026-04-25,2026-07-05,resolved
+Shanel903_Gusikowski974_d90eef0c-f760-8eca-3edc-e289e9b1ff52,Chronic sinusitis (disorder),2026-05-31,,active
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Impacted molars (disorder),1990-10-23,,active
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Chronic intractable migraine without aura (disorder),1991-02-25,,active
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Dependent drug abuse (disorder),1997-09-02,,active
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Gingivitis (disorder),2004-10-02,2004-10-16,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Overdose (disorder),2006-02-21,2006-02-21,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Overdose (disorder),2007-01-02,2007-01-03,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Acute viral pharyngitis (disorder),2007-03-27,2007-04-05,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Gingivitis (disorder),2007-10-20,2007-11-04,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Gingival disease (disorder),2007-11-03,2007-11-04,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Acute viral pharyngitis (disorder),2008-10-29,2008-11-11,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Gingivitis (disorder),2009-10-31,2009-11-14,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Overdose (disorder),2010-06-13,2010-06-13,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Viral sinusitis (disorder),2012-08-08,2012-08-24,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Malignant neoplasm of breast (disorder),2013-01-25,,active
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Overdose (disorder),2013-06-21,2013-06-23,resolved
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Concussion injury of brain (disorder),2014-09-20,,active
+Shawna986_Yelena240_Collier206_412924da-140d-9d54-d207-5716147fffa1,Concussion with no loss of consciousness (disorder),2014-09-20,,active
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Adolescent idiopathic scoliosis (disorder),1999-08-16,,active
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Gingivitis (disorder),2017-08-24,2017-09-07,resolved
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Acute viral pharyngitis (disorder),2018-05-13,2018-05-20,resolved
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Viral sinusitis (disorder),2020-10-30,2020-11-16,resolved
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Viral sinusitis (disorder),2023-06-13,2023-07-10,resolved
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Anemia (disorder),2023-08-31,,active
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Gingivitis (disorder),2023-08-31,2023-09-21,resolved
+Soon875_Koelpin146_f20d33c2-0ef0-d1a8-d646-5a0b029097b1,Gingival disease (disorder),2023-09-21,2023-09-21,resolved
+Stanley702_Satterfield305_d5d05a24-dcb7-6e73-aa1f-102d511fb290,Anemia (disorder),1997-02-16,,active
+Stanley702_Satterfield305_d5d05a24-dcb7-6e73-aa1f-102d511fb290,Primary dental caries (disorder),2019-01-13,2019-01-13,resolved
+Stanley702_Satterfield305_d5d05a24-dcb7-6e73-aa1f-102d511fb290,Viral sinusitis (disorder),2019-01-27,2019-02-21,resolved
+Stanley702_Satterfield305_d5d05a24-dcb7-6e73-aa1f-102d511fb290,Hyperlipidemia (disorder),2021-01-03,,active
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Chronic sinusitis (disorder),1984-11-16,,active
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Appendicitis (disorder),2004-12-05,2004-12-05,resolved
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Viral sinusitis (disorder),2005-02-14,2005-02-26,resolved
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Gingivitis (disorder),2007-12-25,2008-01-08,resolved
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Gingivitis (disorder),2009-12-29,2010-01-12,resolved
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Viral sinusitis (disorder),2011-02-01,2011-02-12,resolved
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Polyp of colon (disorder),2011-12-13,2013-04-24,resolved
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Chronic congestive heart failure (disorder),2012-07-30,,active
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Acute bronchitis (disorder),2012-12-03,2012-12-20,resolved
+Starla601_Sydney660_O'Connell601_7c87af7a-02a0-d387-f6cd-9222e0559b77,Viral sinusitis (disorder),2013-02-19,2013-03-15,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Loss of teeth (disorder),1988-10-16,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Ischemic heart disease (disorder),2009-08-09,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Osteoarthritis of knee (disorder),2011-07-20,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Essential hypertension (disorder),2011-08-14,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Gunshot wound (disorder),2016-09-12,2016-12-12,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Bullet wound (disorder),2016-09-12,2016-12-12,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Acute viral pharyngitis (disorder),2019-05-10,2019-05-24,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Chronic kidney disease stage 1 (disorder),2020-10-04,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Disorder of kidney due to diabetes mellitus (disorder),2020-10-04,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2020-11-26,2020-12-15,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Pneumonia (disorder),2020-12-04,2020-12-15,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Hypoxemia (disorder),2020-12-04,2020-12-15,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Acute pulmonary embolism (disorder),2020-12-13,2020-12-15,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Chronic kidney disease stage 2 (disorder),2021-10-10,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Microalbuminuria due to type 2 diabetes mellitus (disorder),2021-10-10,,active
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Gingival disease (disorder),2022-02-13,2022-02-14,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Gingivitis (disorder),2022-02-27,2022-03-13,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Primary dental caries (disorder),2022-03-13,2022-03-13,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Primary dental caries (disorder),2022-10-30,2022-10-30,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Gingivitis (disorder),2023-09-24,2023-10-08,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Gingivitis (disorder),2025-05-11,2025-05-25,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Primary dental caries (disorder),2025-05-25,2025-05-25,resolved
+Stephan15_Emmerich580_492dfa32-d7b8-faf8-c7d9-ba12d95f82cd,Gingivitis (disorder),2025-11-02,2025-11-16,resolved
+Tasha327_Tonya123_Robel940_38ff4835-fbc3-9099-7614-4f1499549dfe,Recurrent urinary tract infection (disorder),2008-09-06,,active
+Tasha327_Tonya123_Robel940_38ff4835-fbc3-9099-7614-4f1499549dfe,Osteoarthritis of knee (disorder),2017-02-06,,active
+Tasha327_Tonya123_Robel940_38ff4835-fbc3-9099-7614-4f1499549dfe,Pre-eclampsia (disorder),2018-08-12,2018-10-07,resolved
+Tasha327_Tonya123_Robel940_38ff4835-fbc3-9099-7614-4f1499549dfe,Streptococcal sore throat (disorder),2024-07-11,2024-07-20,resolved
+Twyla619_Morar593_96cbbb7a-3996-8d07-80f3-f9dadd3cfec7,Pulmonary emphysema (disorder),1997-05-07,,active
+Twyla619_Morar593_96cbbb7a-3996-8d07-80f3-f9dadd3cfec7,Sepsis (disorder),2011-01-14,,active
+Twyla619_Morar593_96cbbb7a-3996-8d07-80f3-f9dadd3cfec7,Viral sinusitis (disorder),2017-01-14,2017-01-28,resolved
+Twyla619_Morar593_96cbbb7a-3996-8d07-80f3-f9dadd3cfec7,Gingivitis (disorder),2021-11-10,2021-11-24,resolved
+Valentina258_Trisha327_Hansen121_472230dc-418a-5d70-da36-9e9e320dcaec,Epidermal burn of skin (disorder),2019-04-06,2019-05-13,resolved
+Valentina258_Trisha327_Hansen121_472230dc-418a-5d70-da36-9e9e320dcaec,Viral sinusitis (disorder),2020-02-07,2020-02-26,resolved
+Valentina258_Trisha327_Hansen121_472230dc-418a-5d70-da36-9e9e320dcaec,Miscarriage in first trimester (disorder),2021-05-10,2021-05-20,resolved
+Valentina258_Trisha327_Hansen121_472230dc-418a-5d70-da36-9e9e320dcaec,Complete miscarriage (disorder),2021-05-10,2021-05-20,resolved
+Valentina258_Trisha327_Hansen121_472230dc-418a-5d70-da36-9e9e320dcaec,Viral sinusitis (disorder),2021-09-25,2021-10-19,resolved
+Valentina258_Trisha327_Hansen121_472230dc-418a-5d70-da36-9e9e320dcaec,Acute bronchitis (disorder),2024-12-30,2025-01-07,resolved
+Vernice968_Reichel38_2d2b5b8c-4a13-4ca9-c867-64c8dbed0471,Viral sinusitis (disorder),2016-10-17,2016-11-07,resolved
+Vernice968_Reichel38_2d2b5b8c-4a13-4ca9-c867-64c8dbed0471,Viral sinusitis (disorder),2017-09-10,2017-09-27,resolved
+Vernice968_Reichel38_2d2b5b8c-4a13-4ca9-c867-64c8dbed0471,Viral sinusitis (disorder),2020-09-20,2020-10-01,resolved
+Vernice968_Reichel38_2d2b5b8c-4a13-4ca9-c867-64c8dbed0471,Eclampsia in pregnancy (disorder),2024-10-13,2024-11-03,resolved
