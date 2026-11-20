@@ -12,7 +12,7 @@
 >
 > **Personal Project · Built with synthetic patient data from Synthea — no real patient information involved**
  
-🎥 **[Watch the 90-Second Demo](#)** · 📊 **[Preview the Live Tableau Dashboard](#)**
+🎥 **[Watch the 5-Minute Demo](#)** · 📊 **[Preview the Live Tableau Dashboard](#)**
  
 ![Dashboard preview](images/dashboard_preview.png)
  
